@@ -19,3 +19,7 @@ I&#8217;ve been lucky to stumble across a wide range of experiences that I can d
 As I&#8217;ve moved between industries I&#8217;m very comfortable with new terminology, programming languages, technologies and techniques. Although, If I were to select three areas somewhat closer to my heart right now &#8211; it would be Ruby and iOS development, and finally lean business development.
 
 I live and work in Östersund where I spend my free time with my family, hitting the slopes or with my running shoes on (yes especially in the winter!).
+
+Over to you
+===
+Who are you and what makes you excited and want to get up in the morning? Ping me at @simonnordberg. Have a great day!

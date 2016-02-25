@@ -16,7 +16,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #ffc900;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -27,7 +27,6 @@ $content-width:    800px;
 
 $on-palm:          600px;
 $on-laptop:        800px;
-
 
 
 // Use media queries like this:
@@ -43,7 +42,33 @@ $on-laptop:        800px;
     }
 }
 
+// Customization
+$heading-color: #cecece;
+$heading-color-light: lighten($heading-color, 20%);
+$heading-color-dark: darken($heading-color, 25%);
 
+body {
+  .site-header {
+    background-image: url(/assets/theme/engineering-background.jpg);
+    background-size: cover;
+    background-position: center center;
+    min-height: 20em;
+  }
+
+  .site-title {
+
+    &,
+    &:visited {
+      color: $heading-color-light;
+    }
+  }
+
+  .site-nav {
+    .page-link {
+      color: $heading-color-light;
+    }
+  }
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import

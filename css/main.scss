@@ -66,6 +66,10 @@ body {
   .site-nav {
     .page-link {
       color: $heading-color-light;
+
+      @include media-query($on-palm) {
+        color: $text-color;
+      }
     }
   }
 }

@@ -1,15 +1,6 @@
 ---
-id: 164
 title: Creating New Habits by Stacking and Celebrating Easy Wins
-date: 2015-05-27T14:25:05+00:00
-author: simon
-layout: post
-guid: http://simonnordberg.com/?p=164
 permalink: /creating-new-habits-by-stacking-and-celebrating-easy-wins/
-dsq_thread_id:
-  - 3797707573
-categories:
-  - productivity
 ---
 
 I have never enjoyed habits. Even though I picture myself to be methodical in most aspects of life, habits and rituals have never appealed to me. On the flip-side, self-introspection and self-improvement do.

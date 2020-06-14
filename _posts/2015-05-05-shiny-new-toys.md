@@ -1,15 +1,6 @@
 ---
-id: 140
 title: Shiny new toys
-date: 2015-05-05T21:49:04+00:00
-author: simon
-layout: post
-guid: http://simonnordberg.com/?p=140
 permalink: /shiny-new-toys/
-dsq_thread_id:
-  - 3763537652
-categories:
-  - tools
 ---
 Hey, did you know that it takes an awful long time to get good at something? The precise number of hours can and have been heavily debated so I will not go further down that rabbit hole.
 

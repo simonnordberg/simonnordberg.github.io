@@ -1,8 +1,10 @@
-title: Startup engineering
-description:
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://simonnordberg.com" # the base hostname & protocol for your site
+title: Simon Nordberg
+description: ""
+baseurl: ""
+url: "https://simonnordberg.com"
 twitter_username: simonnordberg
-github_username:  simonnordberg
+google_analytics: UA-59609997-1
+
 markdown: kramdown
 permalink: pretty
+theme: minima

@@ -3,12 +3,17 @@
 
 @import "{{ site.theme }}";
 
+// Default colors:
+// https://github.com/pages-themes/hacker/blob/master/_sass/_default_colors.scss
+$dark-purple: #231123;
+
 a {
     color: $conifer;
 }
 
 body {
     font-family: 'Roboto Mono', monospace;
+    background: $dark-purple;
 }
 
 h1, h2, h3, h4, h5, h6 {

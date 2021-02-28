@@ -1,0 +1,8 @@
+title: simonnordberg.com
+description: ""
+baseurl: ""
+url: "https://simonnordberg.com"
+
+markdown: kramdown
+permalink: pretty
+theme: jekyll-theme-hacker

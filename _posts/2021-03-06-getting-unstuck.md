@@ -5,7 +5,7 @@ permalink: /getting-unstuck/
 
 I wouldn't read too much into this post. The single reason I'm posting this at all, is to post something. To put something out there. To overcome my inner critic. To write. To publish. To get unstuck. 
 
-An audience of one. Maybe. 
+An audience of one 
 ---
 
 This time I won't rely on inspiration. This time it's not about the goal. This time it's about the process. 

@@ -9,6 +9,7 @@ $dark-purple: #231123;
 
 a {
     color: $conifer;
+    text-shadow: none;
 }
 
 body {
@@ -16,12 +17,9 @@ body {
     background: $dark-purple;
 }
 
-h1, h2, h3, h4, h5, h6 {
+header h1, h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto Mono', monospace;
-}
-
-header h1 {
-    font-family: 'Roboto Mono', monospace;
+    text-shadow: none;
 }
 
 header h1:before {

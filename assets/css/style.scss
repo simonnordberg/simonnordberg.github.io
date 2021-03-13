@@ -68,6 +68,16 @@ blockquote {
   color: $body-foreground-alt;
 }
 
+pre {
+  font-family: 'Roboto Mono', monospace;
+  background: rgba(0, 0, 0, 0.05);
+  padding: 1rem;
+  display: block;
+  border-radius: 4px;
+  color: $body-complementary;
+  font-size: 0.9rem;
+}
+
 body > header {
   width: 100%;
   margin: 2rem 0;

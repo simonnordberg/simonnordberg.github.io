@@ -4,3 +4,18 @@ baseurl: ""
 url: "https://simonnordberg.com"
 
 markdown: kramdown
+twitter:
+  username: simonnordberg
+  card: summary
+logo: /assets/avatar.jpg
+social:
+  name: Simon Nordberg
+  links:
+    - https://twitter.com/simonnordberg
+author:
+  twitter: simonnordberg
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/avatar.jpg

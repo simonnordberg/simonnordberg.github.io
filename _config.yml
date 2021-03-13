@@ -1,7 +1,6 @@
-title: simonnordberg.com
+title: Simon Nordberg
 description: ""
 baseurl: ""
 url: "https://simonnordberg.com"
 
 markdown: kramdown
-theme: jekyll-theme-hacker

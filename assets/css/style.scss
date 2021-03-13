@@ -1,47 +1,132 @@
 ---
 ---
+$body-background: #fff;
+$body-foreground: #252525;
+$body-foreground-alt: #545454;
+$body-complementary: #cc3232;
 
-@import "{{ site.theme }}";
-
-// Default colors:
-// https://github.com/pages-themes/hacker/blob/master/_sass/_default_colors.scss
-$dark-purple: #231123;
-
-a {
-    color: $conifer;
-    text-shadow: none;
+* {
+  padding: 0;
+  margin: 0;
 }
 
 body {
-    font-family: 'Roboto Mono', monospace;
-    background: $dark-purple;
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  background: $body-background;
+  color: $body-foreground;
+  font-size: 1.2rem;
 }
 
-header h1, h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto Mono', monospace;
-    text-shadow: none;
+a {
+  color: $body-complementary;
 }
 
-header h1:before {
-    content: "% ";
-    font-size: 30px;
+h1, h2, h3 {
+  margin-bottom: 0.5rem;
+  font-weight: bold;
 }
 
-header h1:after {
-    content: "_";
-    animation: blinker .530s step-start infinite;
+h1 {
+  font-size: 1.8rem;
+}
 
-    margin-left: 2px;
-    font-size: 30px;
-    color: #fff;
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.0rem;
+}
+
+p {
+  margin-bottom: 1.5rem;
+}
+
+ul, ol {
+  margin-left: 1.5em;
+  margin: 1.5rem 1rem;
+}
+
+ul {
+  list-style-position: inside;
+}
+
+img {
+  max-width: 100%;
+}
+
+blockquote {
+  font-style: italic;
+  border-left: 4px solid $body-complementary;
+  margin: 1.5rem 0 1.5rem 2em;
+  padding-left: 1rem;
+  color: $body-foreground-alt;
+}
+
+body > header {
+  width: 100%;
+  margin: 2rem 0;
+  text-align: center;
+
+  h1 {
+    font-size: 1.1rem;
+    font-weight: bold;
+    letter-spacing: 0.2rem;
+    text-transform: uppercase;
+    color: $body-foreground;
+  }
+
+  img {
+    width: 2.9rem;
+    height: 2.9rem;
+    border-radius: 100%;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+main {
+  margin: 0 auto;
+  max-width: 44rem;
+  padding: 0 1rem;
 }
 
 footer {
-  margin-top: 1em;
+  text-align: center;
+  margin: 2rem 0;
 }
 
-@keyframes blinker {
-  50% {
-    opacity: 0;
+.card {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.card__link {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  text-indent: -9999px;
+  z-index: 1;
+}
+
+article header {
+  display: flex;
+  flex-direction: column;
+
+  h1 {
+    order: 1;
+  }
+
+  p {
+    margin: 0.2rem 0;
+    font-size: 1rem;
+    color: $body-foreground-alt;
   }
 }

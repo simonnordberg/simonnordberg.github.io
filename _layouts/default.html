@@ -11,14 +11,17 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
   <link rel="manifest" href="/assets/favicon/site.webmanifest">
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet">
+
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto+Mono&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto+Mono&display=swap" rel="stylesheet" type="text/css">
+  </noscript>
   {% seo %}
 </head>
 <body>
 <header>
   <a href="{{ '/' | relative_url }}">
-    <img src="/assets/avatar.jpg" alt="{{ site.title }}"/>
+    <img src="/assets/avatar.jpg" alt="{{ site.title }}" width="50" height="50"/>
     <h1>{{ site.title }}</h1>
   </a>
 </header>

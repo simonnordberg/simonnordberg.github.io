@@ -3,7 +3,7 @@ description: ""
 baseurl: ""
 url: "https://simonnordberg.com"
 
-markdown: kramdown
+markdown: redcarpet
 twitter:
   username: simonnordberg
   card: summary

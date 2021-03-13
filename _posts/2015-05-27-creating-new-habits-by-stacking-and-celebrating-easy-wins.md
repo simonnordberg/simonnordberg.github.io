@@ -1,6 +1,7 @@
 ---
 title: Creating New Habits by Stacking and Celebrating Easy Wins
 permalink: /creating-new-habits-by-stacking-and-celebrating-easy-wins/
+image: /assets/alarm-clock.jpg
 ---
 
 I have never enjoyed habits. Even though I picture myself to be methodical in most aspects of life, habits and rituals have never appealed to me. On the flip-side, self-introspection and self-improvement do.
@@ -21,7 +22,7 @@ As a result it dawned on me that self-improvement could be greatly accelerated i
 
 This also ties nicely into a quote/motto that I have started toying around with, that although somewhat cheesy sets me up for actual change.
 
-> “Progress, Not Perfection” &#8212; unknown 
+> “Progress, Not Perfection” &#8212; unknown
 
 Most literature on habit change presents the process as a steep ladder of personality transformation. In one way or another, over a significant period of time, you have to turn yourself into the person whom better habits come as second nature.
 

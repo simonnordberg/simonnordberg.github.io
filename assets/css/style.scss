@@ -22,6 +22,8 @@ body {
 
 a {
   color: $body-complementary;
+  text-decoration: underline;
+  text-underline-position: under;
 }
 
 h1, h2, h3 {
@@ -61,7 +63,7 @@ img {
 blockquote {
   font-style: italic;
   border-left: 4px solid $body-complementary;
-  margin: 1.5rem 0 1.5rem 2em;
+  margin: 1.5rem 0 1.5rem 1em;
   padding-left: 1rem;
   color: $body-foreground-alt;
 }

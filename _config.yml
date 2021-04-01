@@ -18,7 +18,3 @@ defaults:
       path: ""
     values:
       image: /assets/avatar.jpg
-plugins:
-  - jekyll-redirect-from
-whitelist:
-  - jekyll-redirect-from

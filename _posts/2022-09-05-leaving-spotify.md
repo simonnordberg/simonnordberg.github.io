@@ -4,7 +4,7 @@ permalink: /leaving-spotify/
 ---
 Friday was my last day at Spotify. Today marks the first time since graduating in 2003 that I don’t have a plan for what to do next. I’ll be journaling on some of the reasons I decided to leave in a separate entry, but for now let’s just say it in the simplest form - I needed a break. 
 
-The courier company called last week to schedule a pickup. To my surprise, they really seemed to really care. More than any courier company I’ve ever had to deal with in the past. They seemed to be aware that this was not only about shipping a lump of electronics. This was about letting go. About a life decision that meant letting something go in favor of something else, something new. The courier just came by and picked up my equipment. That’s it, I guess. 
+The courier company called last week to schedule a pickup of my work equipment (computer, monitor, phone etc). To my surprise, they really seemed to really care. More than any courier company I’ve ever had to deal with in the past. They seemed to be aware that this was not only about shipping a lump of electronics. This was about letting go. About a life decision that meant letting something go in favor of something else, something new. The courier just came by and picked up my equipment. That’s it, I guess. 
 
 Leaving a job can be emotional. It doesn’t matter if you’ve enjoyed or loathed the experience. It’s about closure, it’s about saying goodbye to the people you’ve come to know and appreciate. 
 

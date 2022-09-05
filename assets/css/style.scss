@@ -52,7 +52,12 @@ ul, ol {
 }
 
 ul {
-  list-style-position: inside;
+  list-style-position: outside;
+}
+
+li {
+  margin: 5px 0;
+  padding: 0;
 }
 
 img {

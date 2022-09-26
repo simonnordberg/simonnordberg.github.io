@@ -2,7 +2,7 @@
 title: Forgotten curiosity
 permalink: /forgotten-curiosity/
 ---
-Ever since my parents got me a used [Atari 520ST](https://en.wikipedia.org/wiki/Atari_ST) in 1987, computers have been an endless source of inspiration and excitement.
+Ever since my parents got me a used [Atari 520ST](https://en.wikipedia.org/wiki/Atari_ST) in 1987, computers have been an endless source of inspiration and excitement in my life.
 
 At first I mostly used it to play games ([Arkanoid](https://en.wikipedia.org/wiki/Arkanoid), [International Karate](https://en.wikipedia.org/wiki/International_Karate), [Xenon](https://en.wikipedia.org/wiki/Xenon_(video_game)), [Rick Dangerous](https://en.wikipedia.org/wiki/Rick_Dangerous), [Turrican II](https://en.wikipedia.org/wiki/Turrican_II:_The_Final_Fight)). Pretty soon this changed to broader exploration and discovery, with the sole purpose of figuring out what this thing was and how it really worked.
 

@@ -39,7 +39,7 @@ h2 {
 }
 
 h3 {
-  font-size: 1.0rem;
+  font-size: 1.1rem;
 }
 
 p {
@@ -133,7 +133,7 @@ footer {
   z-index: 1;
 }
 
-article header {
+body.default main article header {
   display: flex;
   flex-direction: column;
 
@@ -145,5 +145,96 @@ article header {
     margin: 0.2rem 0;
     font-size: 1rem;
     color: $body-foreground-alt;
+  }
+}
+
+body.resume {
+  li {
+    list-style-type: none;
+  }
+
+  article {
+    margin-top: 1.5rem;
+  }
+
+  article header {
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 34px;
+    background-origin: border-box;
+    display: block;
+  }
+
+  article {
+    &.spotify header {
+      background-image: url('/assets/spotify.png');
+    }
+
+    &.atg header {
+      background-image: url('/assets/atg.png');
+    }
+
+    &.urb-it header {
+      background-image: url('/assets/urb-it.png');
+    }
+
+    &.adeprimo header  {
+      background-image: url('/assets/adeprimo.png');
+    }
+
+    &.ibitec header  {
+      background-image: url('/assets/ibitec.png');
+    }
+
+    &.roxen header  {
+      background-image: url('/assets/roxen.png');
+    }
+
+    &.exsitec header  {
+      background-image: url('/assets/exsitec.png');
+    }
+
+    &.ukd header  {
+      background-image: url('/assets/experience-placeholder.png');
+    }
+
+    &.utfors header  {
+      background-image: url('/assets/utfors.png');
+    }
+
+    &.umu header {
+      background-image: url('/assets/umu.png');
+    }
+  }
+
+  article header, article section {
+      padding-left: 48px;
+
+    h3 {
+      margin: 0;
+    }
+
+    p, time {
+      color: $body-foreground-alt;
+    }
+  }
+}
+
+
+
+@media print {
+  * {
+    -webkit-print-color-adjust: exact !important;
+    color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  body > header,
+   body > footer {
+    display: none;
+  }
+
+  main {
+    max-width: 100%;
   }
 }

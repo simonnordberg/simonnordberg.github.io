@@ -15,7 +15,7 @@
   {% seo %}
   {% include analytics.html %}
 </head>
-<body>
+<body class="{{ page.class | default: 'default' }}">
 <header>
   <a href="{{ '/' | relative_url }}">
     <img src="/assets/avatar.jpg" alt="{{ site.title }}" width="50" height="50"/>

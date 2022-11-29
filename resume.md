@@ -13,9 +13,23 @@ class: resume
         <a class="contact phone" href="tel:+46706155590">+46(0)706-15 55 90</a>
       </address>
     </div>
+  </div>
+  <div class="grid-item">
+    <div class="summary">
+      <h2>What I do, and want to continue doing</h2>
+      <p>
+        I am an engineer and technology generalist turned product leader who thrives on defining successful products,
+        building effective product teams, and improving product development processes. Bringing people together to build
+        great things is what keeps me going.
+      </p>
+    </div>
+  </div>
+</div>
 
+<div class="grid-container">
+  <div class="grid-item">
     <div class="boardwork">
-      <h2>Entrepreneurship & advising</h2>
+      <h2>Entrepreneurship</h2>
       <ul>
         <li>
           <article class="experience hackerman">
@@ -85,14 +99,6 @@ class: resume
     </div>
   </div>
   <div class="grid-item">
-    <div class="summary">
-      <h2>What I do, and want to continue doing</h2>
-      <p>
-        I am an engineer and technology generalist turned product leader who thrives on defining successful products,
-        building effective product teams, and improving product development processes. Bringing people together to build
-        great things is what keeps me going.
-      </p>
-    </div>
     <div class="experience-overview">
       <h2>Experience</h2>
       <ul>
@@ -252,11 +258,7 @@ class: resume
 <hr/>
 
 <div class="about">
-  <h2>About me</h2>
-  <p>
-    I am an engineer and technology generalist turned product leader who thrives on defining successful products,
-    building effective product teams, and improving product development processes.
-  </p>
+  <h2>More about me</h2>
   <p>
     I have spent the past 20 years in software development in various roles and environments. I have started several
     companies. I have been a CTO in a startup. I have been an individual contributor and a manager. If I am to
@@ -266,7 +268,6 @@ class: resume
   <p>
     Personally, I am a devoted trail and ultra runner, downhill skier, occasional DJ and self-improvement nerd.
   </p>
-
 </div>
 
 <div class="experience-details">

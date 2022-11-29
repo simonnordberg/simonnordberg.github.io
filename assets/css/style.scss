@@ -10,6 +10,10 @@ $body-complementary: #cc3232;
   margin: 0;
 }
 
+html {
+  font-size: 100%;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -39,17 +43,15 @@ h2 {
 }
 
 h3 {
-  font-size: 1.1rem;
+  font-size: 1.0rem;
 }
 
 h4 {
-  font-size: 1.0rem;
+  font-size: 0.8rem;
 }
 
 p {
   margin-bottom: 1.1rem;
-//  text-align: justify;
-//  text-justify: inner-word;
 }
 
 ul, ol {
@@ -93,7 +95,7 @@ hr {
   width: 60%;
   margin: 1.5rem auto;
   border: 0;
-  border-bottom: 1px dashed #ccc;
+  border-bottom: 0.1rem dashed #ccc;
 }
 
 body > header {
@@ -168,20 +170,16 @@ body.resume {
 
   li {
     list-style-type: none;
-    margin: 5px 0;
-  }
-
-  article.experience {
-    // margin-top: 1.1rem;
+    margin: 0.2rem 0;
   }
 
   article > header {
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 32px;
+    background-size: 1.8rem;
     background-origin: border-box;
     display: block;
-    padding-left: 48px;
+    padding-left: 2.6rem;
   }
 
   article {
@@ -273,13 +271,8 @@ body.resume {
 
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 0.8rem;
+    background-size: 0.7rem;
     background-origin: border-box;
-
-    @media print {
-      padding-left: 1.0rem;
-      background-size: 0.7rem;
-    }
   }
 
   address .email {
@@ -302,7 +295,6 @@ body.resume {
     -webkit-print-color-adjust: exact !important;
     color-adjust: exact !important;
     print-color-adjust: exact !important;
-    font-size: 96%;
   }
 
   hr {
@@ -325,12 +317,12 @@ body.resume {
 .grid-container {
   display: grid;
   gap: 0 1rem;
-  grid-template-columns: 1fr 1.5fr;
+  grid-template-columns: 1fr 1.618fr;
 }
 
 .experience-details {
   .grid-container {
-    border-radius: 1px;
+    border-radius: 0.1rem;
     padding: 1rem;
   }
 

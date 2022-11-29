@@ -17,7 +17,7 @@ body {
   font-weight: 300;
   background: $body-background;
   color: $body-foreground;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 a {
@@ -25,25 +25,31 @@ a {
   text-decoration: underline;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   margin-bottom: 0.5rem;
   font-weight: bold;
 }
 
 h1 {
-  font-size: 1.8rem;
+  font-size: 1.7rem;
 }
 
 h2 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
 }
 
 h3 {
   font-size: 1.1rem;
 }
 
+h4 {
+  font-size: 1.0rem;
+}
+
 p {
-  margin-bottom: 1.5rem;
+  margin-bottom: 1.1rem;
+//  text-align: justify;
+//  text-justify: inner-word;
 }
 
 ul, ol {
@@ -109,8 +115,7 @@ body > header {
 
 main {
   margin: 0 auto;
-  max-width: 44rem;
-  padding: 0 1rem;
+  max-width: 56rem;
 }
 
 footer {
@@ -149,78 +154,135 @@ body.default main article header {
 }
 
 body.resume {
+  ul {
+    margin: 0;
+  }
+
   li {
     list-style-type: none;
+    margin: 5px 0;
   }
 
-  article {
-    margin-top: 1.5rem;
+  article.experience {
+    // margin-top: 1.1rem;
   }
 
-  article header {
+  article > header {
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 34px;
+    background-size: 32px;
     background-origin: border-box;
     display: block;
+    padding-left: 48px;
   }
 
   article {
-    &.spotify header {
+    header p {
+      font-size: 0.9rem;
+    }
+
+    header, section {
+      h3, h4 {
+        margin: 0;
+      }
+
+      time {
+        font-size: 0.9rem;
+      }
+
+      p, time {
+        color: $body-foreground-alt;
+        display: block;
+      }
+    }
+
+    &.hackerman > header {
+      background-image: url('/assets/hackerman.png');
+    }
+
+    &.spotify > header {
       background-image: url('/assets/spotify.png');
     }
 
-    &.atg header {
+    &.gomorron > header {
+      background-image: url('/assets/gomorron.png');
+    }
+
+    &.atg > header {
       background-image: url('/assets/atg.png');
     }
 
-    &.urb-it header {
+    &.brightn > header {
+      background-image: url('/assets/brightn.png');
+    }
+
+    &.urb-it > header {
       background-image: url('/assets/urb-it.png');
     }
 
-    &.adeprimo header  {
+    &.adeprimo > header  {
       background-image: url('/assets/adeprimo.png');
     }
 
-    &.ibitec header  {
+    &.ibitec > header  {
       background-image: url('/assets/ibitec.png');
     }
 
-    &.roxen header  {
+    &.roxen > header  {
       background-image: url('/assets/roxen.png');
     }
 
-    &.exsitec header  {
+    &.exsitec > header  {
       background-image: url('/assets/exsitec.png');
     }
 
-    &.ukd header  {
+    &.ukd > header  {
       background-image: url('/assets/experience-placeholder.png');
     }
 
-    &.utfors header  {
+    &.utfors > header  {
       background-image: url('/assets/utfors.png');
     }
 
-    &.umu header {
+    &.umu > header {
       background-image: url('/assets/umu.png');
+    }
+
+    &.sysarb > header {
+      background-image: url('/assets/sysarb.png');
+    }
+
+    &.ericsson > header {
+      background-image: url('/assets/ericsson.png');
     }
   }
 
-  article header, article section {
-      padding-left: 48px;
+  address .contact {
+    color: $body-foreground;
+    text-decoration: none;
+    padding-left: 1.1rem;
+    font-size: 0.9rem;
 
-    h3 {
-      margin: 0;
-    }
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 0.8rem;
+    background-origin: border-box;
+  }
 
-    p, time {
-      color: $body-foreground-alt;
-    }
+  address .email {
+    background-image: url('/assets/email.png');
+  }
+
+  address .phone {
+    background-image: url('/assets/phone.png');
   }
 }
 
-
+body.resume {
+  > header, > footer {
+    display: none;
+  }
+}
 
 @media print {
   * {
@@ -231,10 +293,40 @@ body.resume {
 
   body > header,
    body > footer {
-    display: none;
   }
 
   main {
     max-width: 100%;
+  }
+
+  .about {
+    page-break-before: always;
+  }
+}
+
+.grid-container {
+  display: grid;
+  gap: 0 1rem;
+  grid-template-columns: 1fr 1.5fr;
+}
+
+.experience-details {
+  .grid-container {
+    border-radius: 1px;
+    padding: 1rem;
+  }
+
+  .grid-container:nth-child(even) {
+    background: #f1f1f1;
+  }
+}
+
+.grid-item > div {
+  margin: 1.5rem 0;
+}
+
+@media only screen and (max-width: 800px) {
+  .grid-container {
+    grid-template-columns: 1fr;
   }
 }

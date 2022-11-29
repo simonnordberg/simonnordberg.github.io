@@ -81,7 +81,7 @@ class: resume
         </li>
         <li>
           <h3>Non-fiction book worm</h3>
-          <p>Love to learn and read science, philosophy, psychology, medicine, arts, economics to name a few.</p>
+          <p>Love to learn and read; science, philosophy, psychology, medicine, arts, economics to name a few.</p>
         </li>
         <li>
           <h3>Beer brewer</h3>
@@ -262,11 +262,11 @@ class: resume
   <p>
     I have spent the past 20 years in software development in various roles and environments. I have started several
     companies. I have been a startup CTO. I have been an individual contributor and a manager. I have been a consultant
-    working with product companies in a wide range of industries. If I am to go by the feedback I get, I am also a
-    trusted leader with strong people and strategic leadership skills.
+    working with companies in a wide range of industries. I have worked in product companies and agencies. If I am to go
+    by the feedback I get; I am a trusted leader with strong people and strategic leadership skills.
   </p>
   <p>
-    I love learning and improving. I have come to appreciate this as one of my core qualities. I am
+    I love learning and improving. I have come to acknowledge this as one of my core qualities. I am
     able to quickly get up to speed and be productive in a new environment.
   </p>
   <p>
@@ -289,7 +289,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Product lead for the Cloud Storage Product Area in the platform team responsible for the storage and
+        Product lead for the Cloud Storage Product Area in Spotify's platform team responsible for the storage and
         database portfolio that enable R&D teams to safely and effectively build and deploy stateful workloads to serve
         Spotify customers worldwide. Managed a global team of senior product managers with a relentless focus on
         developer productivity and happiness while balancing reliability, performance and cost.
@@ -336,7 +336,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        I led the effort of productising the cloud service offer to improve developer productivity and
+        I led the effort of productizing the cloud service offer to improve developer productivity and
         happiness, including product strategy, roadmap, operational concerns, compliance, quality assurance etc.
       </p>
       <p>

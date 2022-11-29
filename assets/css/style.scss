@@ -292,6 +292,10 @@ body.resume {
 }
 
 @media print {
+  html {
+    font-size: 99%;
+  }
+
   * {
     -webkit-print-color-adjust: exact !important;
     color-adjust: exact !important;
@@ -321,7 +325,7 @@ body.resume {
   grid-template-columns: 1fr 1.618fr;
 }
 
-.experience-details {
+.experience-details, .entrepreneurship-details {
   .grid-container {
     border-radius: 0.1rem;
     padding: 1rem;

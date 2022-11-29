@@ -20,7 +20,7 @@ class: resume
       <p>
         I am an engineer and technology generalist turned product leader who thrives on defining successful products,
         building effective product teams, and improving product development processes. Bringing people together to build
-        great things is what keeps me going.
+        great things is what keeps me going. That and constantly learning and improving.
       </p>
     </div>
   </div>
@@ -44,14 +44,6 @@ class: resume
             <header>
               <h3>Gomorron Östersund, Co-founder & partner</h3>
               <time>January 2017 - November 2020</time>
-            </header>
-          </article>
-        </li>
-        <li>
-          <article class="experience sysarb">
-            <header>
-              <h3>Sysarb, Advisor</h3>
-              <time>February 2018 - June 2019</time>
             </header>
           </article>
         </li>
@@ -134,7 +126,7 @@ class: resume
           <article class="experience atg">
             <header>
               <h3>AB Trav och Galopp</h3>
-              <time>Contract, March 2018 - April 2019</time>
+              <time>March 2018 - April 2019</time>
             </header>
             <section>
               <ul>
@@ -156,6 +148,14 @@ class: resume
                 </li>
               </ul>
             </section>
+          </article>
+        </li>
+        <li>
+          <article class="experience sysarb">
+            <header>
+              <h3>Sysarb, Advisor</h3>
+              <time>February 2018 - June 2019</time>
+            </header>
           </article>
         </li>
         <li>
@@ -261,9 +261,13 @@ class: resume
   <h2>More about me</h2>
   <p>
     I have spent the past 20 years in software development in various roles and environments. I have started several
-    companies. I have been a CTO in a startup. I have been an individual contributor and a manager. If I am to
-    believe the feedback I continuously get, I am also a trusted leader with strong people and strategic leadership
-    skills.
+    companies. I have been a startup CTO. I have been an individual contributor and a manager. I have been a consultant
+    working with product companies in a wide range of industries. If I am to go by the feedback I get, I am also a
+    trusted leader with strong people and strategic leadership skills.
+  </p>
+  <p>
+    I love learning and improving. I have come to appreciate this as one of my core qualities. I am
+    able to quickly get up to speed and be productive in a new environment.
   </p>
   <p>
     Personally, I am a devoted trail and ultra runner, downhill skier, occasional DJ and self-improvement nerd.
@@ -285,10 +289,14 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        I led the Cloud Storage Product Area in the Core Infrastructure tribe responsible for the entire storage
-        and database portfolio enabling R&D teams to safely and effectively build and deploy stateful workloads
-        to serve Spotify's customers worldwide. Developer productivity and happiness our top priority followed
-        by balancing reliability, performance and cost.
+        Product lead for the Cloud Storage Product Area in the platform team responsible for the storage and
+        database portfolio that enable R&D teams to safely and effectively build and deploy stateful workloads to serve
+        Spotify customers worldwide. Managed a global team of senior product managers with a relentless focus on
+        developer productivity and happiness while balancing reliability, performance and cost.
+      </p>
+      <p>
+        I was also strategy lead for a number of large-scale platform productivity and business continuity
+        initiatives impacting all developers at the company.
       </p>
     </div>
   </div>
@@ -305,10 +313,13 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        I led the Cloud Storage Product Area in the Core Infrastructure tribe responsible for the entire storage
-        and database portfolio enabling R&D teams to safely and effectively build and deploy stateful workloads
-        to serve Spotify's customers worldwide. Developer productivity and happiness our top priority followed
-        by balancing reliability, performance and cost.
+        Product manager in two platform teams responsible for the storage and database portfolio focusing on developer
+        productivity, reliability, performance and cost.
+      </p>
+      <p>
+        During this period I was also involved in two other platform teams responsible for configuration
+        management and the foundation for our backend services, focusing on developer productivity for backend
+        engineers.
       </p>
     </div>
   </div>
@@ -324,9 +335,6 @@ class: resume
       </article>
     </div>
     <div class="grid-item">
-      <p>
-        As most tech companies, ATG want to move workloads and services to the cloud.
-      </p>
       <p>
         I led the effort of productising the cloud service offer to improve developer productivity and
         happiness, including product strategy, roadmap, operational concerns, compliance, quality assurance etc.
@@ -354,11 +362,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        The messaging infrastructure at ATG is business critical and should provide world-class reliability as
-        well as a great user experience.
-      </p>
-      <p>
-        I led the effort of productising the backend messaging service offer to improve developer productivity
+        I led the effort of productizing the backend messaging service offer to improve developer productivity
         and happiness, including product strategy, roadmap, operational concerns, compliance, quality assurance
         etc.
       </p>
@@ -366,6 +370,23 @@ class: resume
         The service was based on the Solace messaging platform. As a part of the packaging I also architected
         and developed an infrastructure-as-code framework (written in Python), processes and a governance model
         to allow development teams to self-service resources and application level messaging configuration.
+      </p>
+    </div>
+  </div>
+  <div class="grid-container">
+    <div class="grid-item">
+      <article class="experience sysarb">
+        <header>
+          <h3>Sysarb, Advisor</h3>
+          <time>February 2018 - June 2019</time>
+          <p>Arboga, Stockholm, Remote</p>
+        </header>
+      </article>
+    </div>
+    <div class="grid-item">
+      <p>
+        Sysarb's vision is to help its customers achieve workplace equality. I was product and technology advisor and
+        part of the management team.
       </p>
     </div>
   </div>
@@ -381,7 +402,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        I led the engineering teams, product owners, UX, system integrators and test teams. Also part of the
+        I led the engineering teams, product managers, UX, system integrators and test teams. Also part of the
         executive team with responsibility for product & company strategy.
       </p>
     </div>
@@ -399,12 +420,11 @@ class: resume
     <div class="grid-item">
       <p>
         I managed the native mobile apps product suite consisting of four apps. Two consumer facing (Android &
-        iOS) and two for internal use. Close collaboration with stakeholders and customers to develop and refine
-        the products.
+        iOS) and two for merchants and couriers.
       </p>
       <p>
-        Development was being conducted in two teams that I managed, one team was co-located and one team
-        distributed over two continents.
+        Development was done in two teams that I managed, one team was co-located and one team distributed over two
+        continents.
       </p>
     </div>
   </div>
@@ -420,7 +440,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        System architect and developer of three iOS apps, targeting both end customers and for internal use.
+        System architect and developer of three iOS apps, targeting customers, merchants and couriers.
       </p>
     </div>
   </div>
@@ -436,13 +456,16 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        System architect and engineer responsible for establishing and evolving sound development and
-        architectural practices across internal and external projects.
+        Full service agency that developers and designs digital experiences.
       </p>
       <p>
-        Highly involved as a software engineer and team mentor in the various teams. Advocate of agility in the
-        software process with a leading role as the company transitioned towards Scrum and Kanban as the default
-        methods of managing projects.
+        I was a systems architect and engineer responsible for establishing and evolving sound development and
+        architectural practices across internal and external projects. Involved in countless projects in a number of
+        industries, e.g. media, e-commerce, tourism to name a few.
+      </p>
+      <p>
+        Highly involved as a software engineer and team lead. Advocate of agility in the software process with a leading
+        role as the company transitioned to more effective methods of product development.
       </p>
     </div>
   </div>
@@ -458,7 +481,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Architect and consultant specializing on enterprise Java applications based on JBoss or WebSphere.
+        Solution architect and consultant specializing on enterprise Java applications based on JBoss or WebSphere.
         Projects were conducted with customers mainly from government, military and insurance industries.
       </p>
       <p>
@@ -557,9 +580,67 @@ class: resume
   </div>
 </div>
 
+<hr/>
 
+<div class="entrepreneurship-details">
+  <h2>Entrepreneurship, in more detail</h2>
 
+  <div class="grid-container">
+    <div class="grid-item">
+      <article class="experience hackerman">
+        <header>
+          <h3>Hackerman AB, Founder</h3>
+          <time>December 2016 - Present</time>
+          <p>Gothenburg, Remote</p>
+        </header>
+      </article>
+    </div>
+    <div class="grid-item">
+      <p>Solo venture providing product and technology consulting services.</p>
+    </div>
+  </div>
 
+  <div class="grid-container">
+    <div class="grid-item">
+      <article class="experience gomorron">
+        <header>
+          <h3>Gomorron Östersund, Co-founder & partner</h3>
+          <time>January 2017 - November 2020</time>
+          <p>Östersund, Remote</p>
+        </header>
+      </article>
+    </div>
+    <div class="grid-item">
+      <p>
+        We want to provide startups, entrepreneurs, visionaries and enthusiasts a place to create change and do better
+        business together in a creative coworking environment. We currently have four locations across the city of
+        Östersund.
+      </p>
+      <p>
+        My main responsibility has been to oversee the product strategy and our digital presence. And also the coffee,
+        of course.
+      </p>
+    </div>
+  </div>
 
+  <div class="grid-container">
+    <div class="grid-item">
+      <article class="experience brightn">
+        <header>
+          <h3>Brightn AB, Co-founder & CTO</h3>
+          <time>June 2014 - April 2019</time>
+          <p>Örebro, Östersund, Remote</p>
+        </header>
+      </article>
+    </div>
+    <div class="grid-item">
+      <p>
+        Startup building digital products targeting the retail industry. We launched a platform that enable retailers to
+        effectively connect and communicate with their, largely replacing the need to print and distribute generic and
+        low yield discount flyers.
+      </p>
+    </div>
+  </div>
 
+</div>
 

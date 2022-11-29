@@ -98,7 +98,7 @@ class: resume
           <article class="experience spotify">
             <header>
               <h3>Spotify</h3>
-              <time>May 2019 - September 2022</time>
+              <time>3 years 5 months</time>
             </header>
             <section>
               <ul>
@@ -126,7 +126,7 @@ class: resume
           <article class="experience atg">
             <header>
               <h3>AB Trav och Galopp</h3>
-              <time>March 2018 - April 2019</time>
+              <time>1 year 2 months</time>
             </header>
             <section>
               <ul>
@@ -162,7 +162,7 @@ class: resume
           <article class="experience urb-it">
             <header>
               <h3>Urb-it</h3>
-              <time>June 2015 - June 2017</time>
+              <time>2 years 1 month</time>
             </header>
             <section>
               <ul>
@@ -378,7 +378,7 @@ class: resume
       <article class="experience sysarb">
         <header>
           <h3>Sysarb, Advisor</h3>
-          <time>February 2018 - June 2019</time>
+          <time>Contract, February 2018 - June 2019</time>
           <p>Arboga, Stockholm, Remote</p>
         </header>
       </article>

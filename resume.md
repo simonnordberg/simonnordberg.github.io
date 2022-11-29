@@ -100,7 +100,7 @@ class: resume
           <article class="experience spotify">
             <header>
               <h3>Spotify</h3>
-              <time>Full-time, May 2019 - September 2022</time>
+              <time>May 2019 - September 2022</time>
             </header>
             <section>
               <ul>
@@ -156,7 +156,7 @@ class: resume
           <article class="experience urb-it">
             <header>
               <h3>Urb-it</h3>
-              <time>Contract, June 2015 - June 2017</time>
+              <time>June 2015 - June 2017</time>
             </header>
             <section>
               <ul>
@@ -248,6 +248,8 @@ class: resume
     </div>
   </div>
 </div>
+
+<hr/>
 
 <div class="about">
   <h2>About me</h2>

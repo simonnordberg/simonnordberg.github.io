@@ -89,6 +89,13 @@ pre {
   font-size: 0.9rem;
 }
 
+hr {
+  width: 60%;
+  margin: 1.5rem auto;
+  border: 0;
+  border-bottom: 1px dashed #ccc;
+}
+
 body > header {
   width: 100%;
   margin: 2rem 0;
@@ -116,6 +123,7 @@ body > header {
 main {
   margin: 0 auto;
   max-width: 56rem;
+  padding: 1rem;
 }
 
 footer {
@@ -267,6 +275,11 @@ body.resume {
     background-position: left center;
     background-size: 0.8rem;
     background-origin: border-box;
+
+    @media print {
+      padding-left: 1.0rem;
+      background-size: 0.7rem;
+    }
   }
 
   address .email {
@@ -289,10 +302,11 @@ body.resume {
     -webkit-print-color-adjust: exact !important;
     color-adjust: exact !important;
     print-color-adjust: exact !important;
+    font-size: 96%;
   }
 
-  body > header,
-   body > footer {
+  hr {
+    display: none;
   }
 
   main {
@@ -301,6 +315,10 @@ body.resume {
 
   .about {
     page-break-before: always;
+  }
+
+  .grid-container {
+    page-break-inside: avoid;
   }
 }
 
@@ -322,7 +340,7 @@ body.resume {
 }
 
 .grid-item > div {
-  margin: 1.5rem 0;
+  margin-top: 1.5rem;
 }
 
 @media only screen and (max-width: 800px) {

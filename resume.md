@@ -257,7 +257,7 @@ class: resume
 
 <hr/>
 
-<div class="about">
+<div class="details about-details">
   <h2>More about me</h2>
   <p>
     I have spent the past 20 years in software development in various roles and environments. I have started several
@@ -274,7 +274,7 @@ class: resume
   </p>
 </div>
 
-<div class="experience-details">
+<div class="details experience-details">
   <h2>Experience, in more detail</h2>
 
   <div class="grid-container">
@@ -626,7 +626,7 @@ class: resume
   </div>
 </div>
 
-<div class="entrepreneurship-details">
+<div class="details entrepreneurship-details">
   <h2>Entrepreneurship, in more detail</h2>
 
   <div class="grid-container">

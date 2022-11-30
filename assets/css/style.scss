@@ -310,13 +310,17 @@ body.resume {
     max-width: 100%;
   }
 
-  .about {
+  .about-details {
     page-break-before: always;
   }
 
   .grid-container {
     page-break-inside: avoid;
   }
+}
+
+.details {
+  margin-top: 1.5rem;
 }
 
 .grid-container {

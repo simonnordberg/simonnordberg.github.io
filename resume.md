@@ -538,7 +538,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Master’s thesis entitled 3G IPv6 Node Emulator that includes application design and implementation of a
+        Master’s thesis entitled <a href="/assets/3G IPv6 Node Emulator.pdf" target="_blank">3G IPv6 Node Emulator</a> that includes application design and implementation of a
         Gateway GPRS Support Node (GGSN) with IPv6 support. This node is to be used for 3G end-to-end terminal
         testing. Implementation conducted in C/C++ and Python under a *BSD, Linux and Solaris environment. Work
         also involves modifications to the FreeBSD kernel and IPv6 stack.

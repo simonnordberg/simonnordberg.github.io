@@ -35,7 +35,7 @@ class: resume
           <article class="experience hackerman">
             <header>
               <h3>Hackerman AB, Founder</h3>
-              <time>December 2016 - Present</time>
+              <time>Dec 2016 - Present</time>
             </header>
           </article>
         </li>
@@ -43,7 +43,7 @@ class: resume
           <article class="experience gomorron">
             <header>
               <h3>Gomorron Östersund, Co-founder & partner</h3>
-              <time>January 2017 - November 2020</time>
+              <time>Jan 2017 - Nov 2020</time>
             </header>
           </article>
         </li>
@@ -51,7 +51,7 @@ class: resume
           <article class="experience brightn">
             <header>
               <h3>Brightn AB, Co-founder & CTO</h3>
-              <time>June 2014 - April 2019</time>
+              <time>Jun 2014 - Apr 2019</time>
             </header>
           </article>
         </li>
@@ -98,7 +98,7 @@ class: resume
           <article class="experience spotify">
             <header>
               <h3>Spotify</h3>
-              <time>3 years 5 months</time>
+              <time>May 2019 - Sep 2022</time>
             </header>
             <section>
               <ul>
@@ -106,7 +106,7 @@ class: resume
                   <article>
                     <header>
                       <h4>Principal Product Manager</h4>
-                      <time>February 2022 - September 2022</time>
+                      <time>Feb 2022 - Sep 2022</time>
                     </header>
                   </article>
                 </li>
@@ -114,7 +114,7 @@ class: resume
                   <article>
                     <header>
                       <h4>Senior Product Manager</h4>
-                      <time>May 2019 - January 2022</time>
+                      <time>May 2019 - Jan 2022</time>
                     </header>
                   </article>
                 </li>
@@ -126,7 +126,7 @@ class: resume
           <article class="experience atg">
             <header>
               <h3>AB Trav och Galopp</h3>
-              <time>1 year 2 months</time>
+              <time>Mar 2018 - Apr 2019</time>
             </header>
             <section>
               <ul>
@@ -134,7 +134,7 @@ class: resume
                   <article>
                     <header>
                       <h4>Product Manager, Cloud Infrastructure</h4>
-                      <time>December 2018 - April 2019</time>
+                      <time>Dec 2018 - Apr 2019</time>
                     </header>
                   </article>
                 </li>
@@ -142,7 +142,7 @@ class: resume
                   <article>
                     <header>
                       <h4>Product Manager, Messaging Infrastructure</h4>
-                      <time>March 2018 - April 2019</time>
+                      <time>Mar 2018 - Apr 2019</time>
                     </header>
                   </article>
                 </li>
@@ -154,7 +154,7 @@ class: resume
           <article class="experience sysarb">
             <header>
               <h3>Sysarb, Advisor</h3>
-              <time>February 2018 - June 2019</time>
+              <time>Feb 2018 - Jun 2019</time>
             </header>
           </article>
         </li>
@@ -162,7 +162,7 @@ class: resume
           <article class="experience urb-it">
             <header>
               <h3>Urb-it</h3>
-              <time>2 years 1 month</time>
+              <time>Jun 2015 - Jun 2017</time>
             </header>
             <section>
               <ul>
@@ -170,7 +170,7 @@ class: resume
                   <article>
                     <header>
                       <h4>Interim CTO</h4>
-                      <time>January 2017 - June 2017</time>
+                      <time>Jan 2017 - Jun 2017</time>
                     </header>
                   </article>
                 </li>
@@ -178,7 +178,7 @@ class: resume
                   <article>
                     <header>
                       <h4>Product Manager</h4>
-                      <time>May 2016 - January 2017</time>
+                      <time>May 2016 - Jan 2017</time>
                     </header>
                   </article>
                 </li>
@@ -186,7 +186,7 @@ class: resume
                   <article>
                     <header>
                       <h4>iOS Engineer & Architect</h4>
-                      <time>June 2015 - May 2016</time>
+                      <time>Jun 2015 - May 2016</time>
                     </header>
                   </article>
                 </li>
@@ -198,7 +198,7 @@ class: resume
           <article class="experience adeprimo">
             <header>
               <h3>Adeprimo, Systems Architect</h3>
-              <time>November 2008 - June 2014</time>
+              <time>Nov 2008 - Jun 2014</time>
             </header>
           </article>
         </li>
@@ -206,7 +206,7 @@ class: resume
           <article class="experience ibitec">
             <header>
               <h3>Ibitec, Solutions Architect</h3>
-              <time>November 2007 - November 2008</time>
+              <time>Nov 2007 - Nov 2008</time>
             </header>
           </article>
         </li>
@@ -214,7 +214,7 @@ class: resume
           <article class="experience roxen">
             <header>
               <h3>Roxen Internet Software, Developer</h3>
-              <time>August 2006 - November 2007</time>
+              <time>Aug 2006 - Nov 2007</time>
             </header>
           </article>
         </li>
@@ -222,7 +222,7 @@ class: resume
           <article class="experience exsitec">
             <header>
               <h3>Exsitec, Technical Consultant</h3>
-              <time>May 2004 - August 2006</time>
+              <time>May 2004 - Aug 2006</time>
             </header>
           </article>
         </li>
@@ -230,7 +230,7 @@ class: resume
           <article class="experience ericsson">
             <header>
               <h3>Ericsson, Master's Thesis</h3>
-              <time>May 2003 - September 2003</time>
+              <time>May 2003 - Sep 2003</time>
             </header>
           </article>
         </li>
@@ -238,7 +238,7 @@ class: resume
           <article class="experience ukd">
             <header>
               <h3>UKD Distans, Head Teacher</h3>
-              <time>December 1999 - March 2003</time>
+              <time>Dec 1999 - Mar 2003</time>
             </header>
           </article>
         </li>
@@ -246,7 +246,7 @@ class: resume
           <article class="experience utfors">
             <header>
               <h3>Utfors, NOC Technician</h3>
-              <time>May 2000 - August 2002</time>
+              <time>May 2000 - Aug 2002</time>
             </header>
           </article>
         </li>
@@ -282,7 +282,7 @@ class: resume
       <article class="experience spotify">
         <header>
           <h3>Spotify, Principal Product Manager</h3>
-          <time>Full-time, February 2022 - September 2022</time>
+          <time>Full-time, Feb 2022 - Sep 2022</time>
           <p>New York, Stockholm, Remote</p>
         </header>
       </article>
@@ -306,7 +306,7 @@ class: resume
       <article class="experience spotify">
         <header>
           <h3>Spotify, Senior Product Manager</h3>
-          <time>Full-time, May 2019 - January 2022</time>
+          <time>Full-time, May 2019 - Jan 2022</time>
           <p>New York, Stockholm, Remote</p>
         </header>
       </article>
@@ -329,7 +329,7 @@ class: resume
       <article class="experience atg">
         <header>
           <h3>ATG, Product Manager, Cloud Infrastructure</h3>
-          <time>Contract, December 2018 - April 2019</time>
+          <time>Contract, Dec 2018 - Apr 2019</time>
           <p>Stockholm</p>
         </header>
       </article>
@@ -355,7 +355,7 @@ class: resume
       <article class="experience atg">
         <header>
           <h3>ATG, Product Manager, Messaging Infrastructure</h3>
-          <time>Contract, March 2018 - April 2019</time>
+          <time>Contract, Mar 2018 - Apr 2019</time>
           <p>Stockholm</p>
         </header>
       </article>
@@ -378,7 +378,7 @@ class: resume
       <article class="experience sysarb">
         <header>
           <h3>Sysarb, Advisor</h3>
-          <time>Contract, February 2018 - June 2019</time>
+          <time>Contract, Feb 2018 - Jun 2019</time>
           <p>Arboga, Stockholm, Remote</p>
         </header>
       </article>
@@ -395,7 +395,7 @@ class: resume
       <article class="experience urb-it">
         <header>
           <h3>Urb-it, Interim CTO</h3>
-          <time>Contract, January 2017 - June 2017</time>
+          <time>Contract, Jan 2017 - Jun 2017</time>
           <p>Stockholm</p>
         </header>
       </article>
@@ -412,7 +412,7 @@ class: resume
       <article class="experience urb-it">
         <header>
           <h3>Urb-it, Product Manager</h3>
-          <time>Contract, May 2016 - January 2017</time>
+          <time>Contract, May 2016 - Jan 2017</time>
           <p>Stockholm</p>
         </header>
       </article>
@@ -433,7 +433,7 @@ class: resume
       <article class="experience urb-it">
         <header>
           <h3>Urb-it, iOS Engineer & Architect</h3>
-          <time>Contract, June 2015 - May 2016</time>
+          <time>Contract, Jun 2015 - May 2016</time>
           <p>Stockholm</p>
         </header>
       </article>
@@ -449,7 +449,7 @@ class: resume
       <article class="experience adeprimo">
         <header>
           <h3>Adeprimo, Systems Architect</h3>
-          <time>Full-time, November 2008 - June 2014</time>
+          <time>Full-time, Nov 2008 - Jun 2014</time>
           <p>Östersund</p>
         </header>
       </article>
@@ -474,7 +474,7 @@ class: resume
       <article class="experience ibitec">
         <header>
           <h3>Ibitec, Solutions Architect</h3>
-          <time>Full-time, November 2007 - November 2008</time>
+          <time>Full-time, Nov 2007 - Nov 2008</time>
           <p>Linköping, Stockholm</p>
         </header>
       </article>
@@ -495,7 +495,7 @@ class: resume
       <article class="experience roxen">
         <header>
           <h3>Roxen Internet Software, Developer</h3>
-          <time>Full-time, August 2006 - November 2007</time>
+          <time>Full-time, Aug 2006 - Nov 2007</time>
           <p>Linköping</p>
         </header>
       </article>
@@ -512,7 +512,7 @@ class: resume
       <article class="experience exsitec">
         <header>
           <h3>Exsitec, Technical Consultant</h3>
-          <time>Full-time, May 2004 - August 2006</time>
+          <time>Full-time, May 2004 - Aug 2006</time>
           <p>Linköping, Stockholm</p>
         </header>
       </article>
@@ -531,7 +531,7 @@ class: resume
       <article class="experience ericsson">
         <header>
           <h3>Ericsson, Master's Thesis</h3>
-          <time>Full-time, May 2003 - September 2003</time>
+          <time>Full-time, May 2003 - Sep 2003</time>
           <p>Stockholm</p>
         </header>
       </article>
@@ -550,7 +550,7 @@ class: resume
       <article class="experience ukd">
         <header>
           <h3>UKD Distans, Head Teacher</h3>
-          <time>Part-time, December 1999 - March 2003</time>
+          <time>Part-time, Dec 1999 - Mar 2003</time>
           <p>Umeå, Malung</p>
         </header>
       </article>
@@ -566,7 +566,7 @@ class: resume
       <article class="experience utfors">
         <header>
           <h3>Utfors, NOC Technician</h3>
-          <time>Part-time, May 2000 - August 2002</time>
+          <time>Part-time, May 2000 - Aug 2002</time>
           <p>Uppsala, Stockholm</p>
         </header>
       </article>
@@ -590,7 +590,7 @@ class: resume
       <article class="experience hackerman">
         <header>
           <h3>Hackerman AB, Founder</h3>
-          <time>December 2016 - Present</time>
+          <time>Dec 2016 - Present</time>
           <p>Gothenburg, Remote</p>
         </header>
       </article>
@@ -605,7 +605,7 @@ class: resume
       <article class="experience gomorron">
         <header>
           <h3>Gomorron Östersund, Co-founder & partner</h3>
-          <time>January 2017 - November 2020</time>
+          <time>Jan 2017 - Nov 2020</time>
           <p>Östersund, Remote</p>
         </header>
       </article>
@@ -628,7 +628,7 @@ class: resume
       <article class="experience brightn">
         <header>
           <h3>Brightn AB, Co-founder & CTO</h3>
-          <time>June 2014 - April 2019</time>
+          <time>Jun 2014 - Apr 2019</time>
           <p>Örebro, Östersund, Remote</p>
         </header>
       </article>

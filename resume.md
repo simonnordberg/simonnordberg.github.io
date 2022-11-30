@@ -626,8 +626,6 @@ class: resume
   </div>
 </div>
 
-<hr/>
-
 <div class="entrepreneurship-details">
   <h2>Entrepreneurship, in more detail</h2>
 

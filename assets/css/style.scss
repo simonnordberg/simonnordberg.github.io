@@ -125,7 +125,7 @@ body > header {
 
 main {
   margin: 0 auto;
-  max-width: 56rem;
+  max-width: 44rem;
   padding: 1rem;
 }
 
@@ -165,6 +165,10 @@ body.default main article header {
 }
 
 body.resume {
+  main {
+    max-width: 56rem;
+  }
+
   ul {
     margin: 0;
   }

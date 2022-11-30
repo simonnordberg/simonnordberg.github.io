@@ -298,6 +298,9 @@ class: resume
         I was also strategy lead for a number of large-scale platform productivity and business continuity
         initiatives impacting all developers at the company.
       </p>
+      <p>
+        Environment: GCP, AWS, Bigtable, Cassandra, Java, Python, Kubernetes
+      </p>
     </div>
   </div>
 
@@ -320,6 +323,9 @@ class: resume
         During this period I was also involved in two other platform teams responsible for configuration
         management and the foundation for our backend services, focusing on developer productivity for backend
         engineers.
+      </p>
+      <p>
+        Environment: GCP, AWS, Bigtable, Cassandra, Java, Python, Kubernetes
       </p>
     </div>
   </div>
@@ -348,6 +354,9 @@ class: resume
         In addition, we also acted as a Site Reliability Engineering (SRE) team with a mission to provide
         world-class reliability to the onboarded services hosted on the cloud platform.
       </p>
+      <p>
+        Environment: AWS, Kubernetes, Networking
+      </p>
     </div>
   </div>
   <div class="grid-container">
@@ -371,6 +380,9 @@ class: resume
         and developed an infrastructure-as-code framework (written in Python), processes and a governance model
         to allow development teams to self-service resources and application level messaging configuration.
       </p>
+      <p>
+        Environment: Solace (Appliance & VMR), Python, Golang, Networking, SAN
+      </p>
     </div>
   </div>
   <div class="grid-container">
@@ -388,6 +400,9 @@ class: resume
         Sysarb's vision is to help its customers achieve workplace equality. I was product and technology advisor and
         part of the management team.
       </p>
+      <p>
+        Environment: AWS, Azure, .NET
+      </p>
     </div>
   </div>
   <div class="grid-container">
@@ -404,6 +419,9 @@ class: resume
       <p>
         I led the engineering teams, product managers, UX, system integrators and test teams. Also part of the
         executive team with responsibility for product & company strategy.
+      </p>
+      <p>
+        Environment: iOS, Android, .NET, AWS, Azure
       </p>
     </div>
   </div>
@@ -426,6 +444,9 @@ class: resume
         Development was done in two teams that I managed, one team was co-located and one team distributed over two
         continents.
       </p>
+      <p>
+        Environment: iOS, Android, Objective-C, Swift, Java, Kotlin
+      </p>
     </div>
   </div>
   <div class="grid-container">
@@ -441,6 +462,9 @@ class: resume
     <div class="grid-item">
       <p>
         System architect and developer of three iOS apps, targeting customers, merchants and couriers.
+      </p>
+      <p>
+        Environment: Objective-C, Swift, Storyboard, MVVM
       </p>
     </div>
   </div>
@@ -467,6 +491,9 @@ class: resume
         Highly involved as a software engineer and team lead. Advocate of agility in the software process with a leading
         role as the company transitioned to more effective methods of product development.
       </p>
+      <p>
+        Environment: Java, Objective-C, Scala, Python, Ruby, Linux, AWS
+      </p>
     </div>
   </div>
   <div class="grid-container">
@@ -488,6 +515,9 @@ class: resume
         Responsible for establishing architectural guidelines within the company. Instructor on a number of Sun
         Microsystems’s Enterprise Java courses such as FJ-310 and SL-351.
       </p>
+      <p>
+        Environment: Java, J2EE, JavaEE, WebSphere, MySQL, Oracle, Linux, Scrum, RUP
+      </p>
     </div>
   </div>
   <div class="grid-container">
@@ -504,6 +534,9 @@ class: resume
       <p>
         Software developer on the Roxen Editorial Portal product, a web based multichannel publishing tool
         aimed at the media market.
+      </p>
+      <p>
+        Environment: Pike, C, Linux, MySQL, XSLT, Scrum
       </p>
     </div>
   </div>
@@ -524,6 +557,9 @@ class: resume
         iSeries platform gained through consultancy and teaching of topics such as Linux on iSeries, iSeries
         LPAR (Logical partitioning) and SQL.
       </p>
+      <p>
+        Environment: Java, iSeries, OS/400, DB2, Movex
+      </p>
     </div>
   </div>
   <div class="grid-container">
@@ -538,10 +574,14 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Master’s thesis entitled <a href="/assets/3G IPv6 Node Emulator.pdf" target="_blank">3G IPv6 Node Emulator</a> that includes application design and implementation of a
+        Master’s thesis entitled <a href="/assets/3G IPv6 Node Emulator.pdf" target="_blank">3G IPv6 Node Emulator</a>
+        that includes application design and implementation of a
         Gateway GPRS Support Node (GGSN) with IPv6 support. This node is to be used for 3G end-to-end terminal
         testing. Implementation conducted in C/C++ and Python under a *BSD, Linux and Solaris environment. Work
         also involves modifications to the FreeBSD kernel and IPv6 stack.
+      </p>
+      <p>
+        Environment: C, C++, Linux, FreeBSD
       </p>
     </div>
   </div>
@@ -559,6 +599,9 @@ class: resume
       <p>
         Part-time job teaching programming (C, C++, SQL and Visual Basic) to high school students.
       </p>
+      <p>
+        Environment: C, C++, SQL, Visual Basic
+      </p>
     </div>
   </div>
   <div class="grid-container">
@@ -575,6 +618,9 @@ class: resume
       <p>
         Part-time job managing core and customer networks. Network infrastructure configuration, monitoring and
         operations.
+      </p>
+      <p>
+        Environment: Solaris, Linux, Cisco, Juniper
       </p>
     </div>
   </div>
@@ -641,6 +687,5 @@ class: resume
       </p>
     </div>
   </div>
-
 </div>
 

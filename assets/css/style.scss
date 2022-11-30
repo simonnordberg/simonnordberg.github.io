@@ -31,28 +31,29 @@ a {
 
 h1, h2, h3, h4 {
   margin-bottom: 0.5rem;
-  font-weight: bold;
   color: $body-foreground-alt;
+  font-family: 'IBM Plex Serif', serif;
+  font-weight: 700;
 }
 
 h1 {
-  font-size: 1.7rem;
+  font-size: 1.5rem;
 }
 
 h2 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 
 h3 {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 h4 {
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 
 p {
-  margin-bottom: 1.1rem;
+  margin-bottom: 0.8rem;
 }
 
 ul, ol {
@@ -106,7 +107,6 @@ body > header {
 
   h1 {
     font-size: 1.1rem;
-    font-weight: bold;
     letter-spacing: 0.2rem;
     text-transform: uppercase;
     color: $body-foreground;
@@ -320,7 +320,7 @@ body.resume {
 }
 
 .details {
-  margin-top: 1.5rem;
+  margin-bottom: 1rem;
 }
 
 .grid-container {
@@ -341,7 +341,7 @@ body.resume {
 }
 
 .grid-item > div {
-  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 @media only screen and (max-width: 800px) {

@@ -3,7 +3,7 @@ title: Resume
 permalink: /resume/
 class: resume
 ---
-<a class="download" href="/assets/simon-nordberg-resume.pdf">Download as PDF</a>
+<a class="download" href="/assets/simonnordberg-resume.pdf">Download as PDF</a>
 <div class="grid-container">
   <div class="grid-item">
     <div class="contact">

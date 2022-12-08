@@ -3,6 +3,7 @@ title: Resume
 permalink: /resume/
 class: resume
 ---
+<a class="download" href="/assets/resume.pdf">Download as PDF</a>
 <div class="grid-container">
   <div class="grid-item">
     <div class="contact">

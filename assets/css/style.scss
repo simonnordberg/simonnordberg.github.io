@@ -268,7 +268,7 @@ body.resume {
     }
   }
 
-  address .contact {
+  address .contact, .download {
     color: $body-foreground;
     text-decoration: none;
     padding-left: 1.1rem;
@@ -278,6 +278,15 @@ body.resume {
     background-position: left center;
     background-size: 0.7rem;
     background-origin: border-box;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .download {
+    padding: 1rem;
+    background-image: url('/assets/download.png');
   }
 
   address .email {
@@ -306,7 +315,7 @@ body.resume {
     print-color-adjust: exact !important;
   }
 
-  hr {
+  hr, .download {
     display: none;
   }
 

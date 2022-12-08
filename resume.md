@@ -645,7 +645,7 @@ class: resume
         Solo venture providing product and technology consulting services.
       </p>
       <p>
-        Various research projects in e.g. Machine Learning and Game Engine Development.
+        Various research projects in e.g. Machine Learning and Game Engines.
       </p>
     </div>
   </div>

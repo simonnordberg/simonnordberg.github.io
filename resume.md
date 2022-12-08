@@ -640,7 +640,12 @@ class: resume
       </article>
     </div>
     <div class="grid-item">
-      <p>Solo venture providing product and technology consulting services.</p>
+      <p>
+        Solo venture providing product and technology consulting services.
+      </p>
+      <p>
+        Various research projects in e.g. Machine Learning and Game Engine Development.
+      </p>
     </div>
   </div>
 
@@ -682,6 +687,9 @@ class: resume
         Startup building digital products targeting the retail industry. We launched a platform that enable retailers to
         effectively connect and communicate with their, largely replacing the need to print and distribute generic and
         low yield discount flyers.
+      </p>
+      <p>
+        Environment: Objective-C, Swift, Java, Ruby, Python, Machine Learning, AWS
       </p>
     </div>
   </div>

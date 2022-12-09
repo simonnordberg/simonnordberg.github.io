@@ -8,7 +8,7 @@ class: resume
   <div class="grid-item">
     <div class="contact">
       <h1>Simon Nordberg</h1>
-      <p>Senior Technologist & Product Leader</p>
+      <p>Software Engineer & Architect | Technology Leadership</p>
       <address>
         <a class="contact email" href="mailto:simon@simonnordberg.com">simon@simonnordberg.com</a><br>
         <a class="contact phone" href="tel:+46706155590">+46(0)706-15 55 90</a>
@@ -19,9 +19,10 @@ class: resume
     <div class="summary">
       <h2>What I do, and want to continue doing</h2>
       <p>
-        I am an engineer and technology generalist turned product leader who thrives on defining successful products,
-        building effective product teams, and improving product development processes. Bringing people together to build
-        great things is what keeps me going. That and constantly learning and improving.
+        I am an engineer and technology generalist who thrives on defining and building successful technology products.
+        I have worked in many technology and product roles over the years, and consider myself an experienced builder of
+        scalable software systems and high-performing teams. I am driven by an intense need to understand, to learn,
+        and to improve.
       </p>
     </div>
   </div>
@@ -78,7 +79,7 @@ class: resume
       <ul>
         <li>
           <h3>Outdoor aficionado</h3>
-          <p>Happiest outside, I spend a lot of time running and skiing.</p>
+          <p>Happiest outside, I spend a lot of my free time running and skiing.</p>
         </li>
         <li>
           <h3>Non-fiction book worm</h3>
@@ -186,7 +187,7 @@ class: resume
                 <li>
                   <article>
                     <header>
-                      <h4>iOS Engineer & Architect</h4>
+                      <h4>Software Engineer & Architect</h4>
                       <time>Jun 2015 - May 2016</time>
                     </header>
                   </article>
@@ -198,7 +199,7 @@ class: resume
         <li>
           <article class="experience adeprimo">
             <header>
-              <h3>Adeprimo, Systems Architect</h3>
+              <h3>Adeprimo, Software Engineer & Architect</h3>
               <time>Nov 2008 - Jun 2014</time>
             </header>
           </article>
@@ -206,7 +207,7 @@ class: resume
         <li>
           <article class="experience ibitec">
             <header>
-              <h3>Ibitec, Solutions Architect</h3>
+              <h3>Ibitec, Software Engineer & Architect</h3>
               <time>Nov 2007 - Nov 2008</time>
             </header>
           </article>
@@ -261,10 +262,10 @@ class: resume
 <div class="details about-details">
   <h2>More about me</h2>
   <p>
-    I have spent the past 20 years in software development in various roles and environments. I have started several
-    companies. I have been a startup CTO. I have been an individual contributor and a manager. I have been a consultant
-    working with companies in a wide range of industries. I have worked in product companies and agencies. If I am to go
-    by the feedback I get; I am a trusted leader with strong people and strategic leadership skills.
+    I have spent the past 20 years in various technology and product roles. I have started several companies. I have
+    been a startup CTO. I have been an individual contributor and a manager. I have been a consultant working with
+    companies in a wide range of industries. I have worked in product companies and agencies. If I am to go by the
+    feedback I get; I am a trusted leader with strong technical, people and strategic skills.
   </p>
   <p>
     I love learning and improving. I have come to acknowledge this as one of my core qualities. I am
@@ -454,7 +455,7 @@ class: resume
     <div class="grid-item">
       <article class="experience urb-it">
         <header>
-          <h3>Urb-it, iOS Engineer & Architect</h3>
+          <h3>Urb-it, Software Engineer & Architect</h3>
           <time>Contract, Jun 2015 - May 2016</time>
           <p>Stockholm</p>
         </header>
@@ -473,7 +474,7 @@ class: resume
     <div class="grid-item">
       <article class="experience adeprimo">
         <header>
-          <h3>Adeprimo, Systems Architect</h3>
+          <h3>Adeprimo, Software Engineer & Architect</h3>
           <time>Full-time, Nov 2008 - Jun 2014</time>
           <p>Östersund</p>
         </header>
@@ -501,7 +502,7 @@ class: resume
     <div class="grid-item">
       <article class="experience ibitec">
         <header>
-          <h3>Ibitec, Solutions Architect</h3>
+          <h3>Ibitec, Software Engineer & Architect</h3>
           <time>Full-time, Nov 2007 - Nov 2008</time>
           <p>Linköping, Stockholm</p>
         </header>

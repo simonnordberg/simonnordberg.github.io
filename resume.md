@@ -20,9 +20,8 @@ class: resume
       <h2>What I do, and want to continue doing</h2>
       <p>
         I am an engineer and technology generalist who thrives on defining and building successful technology products.
-        I have worked in many technology and product roles over the years, and consider myself an experienced builder of
-        scalable software systems and high-performing teams. I am driven by an intense need to understand, to learn,
-        and to improve.
+        Figure out where to invest, create passionate, creative and high-performing teams, and build great products
+        together. This is what I have done a lot of, what keeps me going, and what I want to keep doing.
       </p>
     </div>
   </div>
@@ -291,7 +290,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Product lead for the Cloud Storage Product Area in Spotify's platform team responsible for the storage and
+        Product lead for the Cloud Storage Product Area in Spotify's Platform team responsible for the storage and
         database portfolio that enable R&D teams to safely and effectively build and deploy stateful workloads to serve
         Spotify customers worldwide. Managed a global team of senior product managers with a relentless focus on
         developer productivity and happiness while balancing reliability, performance and cost.
@@ -318,11 +317,11 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Product manager in two platform teams responsible for the storage and database portfolio focusing on developer
+        Product manager in two Platform teams responsible for the storage and database portfolio focusing on developer
         productivity, reliability, performance and cost.
       </p>
       <p>
-        During this period I was also involved in two other platform teams responsible for configuration
+        During this period I was also involved in two other Platform teams responsible for configuration
         management and the foundation for our backend services, focusing on developer productivity for backend
         engineers.
       </p>

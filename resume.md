@@ -20,8 +20,8 @@ class: resume
       <h2>What I do, and want to continue doing</h2>
       <p>
         I am an engineer and technology generalist who thrives on defining and building successful technology products.
-        I love figuring out where to invest and how to create passionate, creative, and high-performing teams to build
-        great products. This is what drives me and what I hope to continue doing in the future.
+        I love tackling challenging problems, figuring out where to invest, architecting and implementing solutions,
+        and creating passionate, creative, and high-performing teams to build great products.
       </p>
     </div>
   </div>

@@ -8,7 +8,7 @@ class: resume
   <div class="grid-item">
     <div class="contact">
       <h1>Simon Nordberg</h1>
-      <p>Software Engineer & Architect | Technology Leadership</p>
+      <p>Software Engineer | Software Architecture & Technology Leadership</p>
       <address>
         <a class="contact email" href="mailto:simon@simonnordberg.com">simon@simonnordberg.com</a><br>
         <a class="contact phone" href="tel:+46706155590">+46(0)706-15 55 90</a>

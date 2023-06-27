@@ -266,6 +266,10 @@ body.resume {
     &.ericsson > header {
       background-image: url('/assets/ericsson.png');
     }
+
+    &.wolterskluwer > header {
+      background-image: url('/assets/wolterskluwer.png');
+    }
   }
 
   address .contact, .download {
@@ -301,7 +305,7 @@ body.resume {
 
 @media print {
   html {
-    font-size: 99%;
+    font-size: 92%;
   }
 
   * {

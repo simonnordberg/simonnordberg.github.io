@@ -58,7 +58,7 @@ class: resume
         </li>
       </ul>
     </div>
-
+    
     <div class="education">
       <h2>Education</h2>
       <ul>
@@ -95,6 +95,14 @@ class: resume
     <div class="experience-overview">
       <h2>Experience</h2>
       <ul>
+        <li>
+          <article class="experience wolterskluwer">
+            <header>
+              <h3>Wolters Kluwer Sverige, Interim CTO</h3>
+              <time>Mar 2023 - Present</time>
+            </header>
+          </article>
+        </li>
         <li>
           <article class="experience spotify">
             <header>
@@ -262,7 +270,7 @@ class: resume
   <h2>More about me</h2>
   <p>
     I have spent the past 20 years in various technology and product roles. I have started several companies. I have
-    been a startup CTO. I have been an individual contributor and a manager. I have been a consultant working with
+    been a CTO. I have been an individual contributor and a manager. I have been a consultant working with
     companies in a wide range of industries. I have worked in product companies and agencies. If I am to go by the
     feedback I get; I am a trusted leader with strong technical, people and strategic skills.
   </p>
@@ -277,6 +285,30 @@ class: resume
 
 <div class="details experience-details">
   <h2>Experience, in more detail</h2>
+
+  <div class="grid-container">
+    <div class="grid-item">
+      <article class="experience wolterskluwer">
+        <header>
+          <h3>Wolters Kluwer Sverige, Interim CTO</h3>
+          <time>Contract, Mar 2023 - Present</time>
+          <p>Gothenburg, Remote</p>
+        </header>
+      </article>
+    </div>
+    <div class="grid-item">
+      <p>
+        Interim position where I support the leadership team in several tech related areas. Technology leadership 
+        and management focusing on org design, tech and competency strategy, process and delivery improvements. 
+        Architecture responsibilities focusing on architecture principles, patterns, governance and delivery 
+        enablement of the next generation web platform. Operations responsibilities focusing on reliability, 
+        performance, observability and incident management. 
+      </p>
+      <p>
+        Environment: Azure, C#, .NET Core
+      </p>
+    </div>
+  </div>
 
   <div class="grid-container">
     <div class="grid-item">

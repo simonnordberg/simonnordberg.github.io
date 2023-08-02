@@ -454,7 +454,7 @@ class: resume
         executive team with responsibility for product & company strategy.
       </p>
       <p>
-        Environment: iOS, Android, .NET, AWS, Azure, JavaScript
+        Environment: iOS, Android, JavaScript, .NET, AWS, Azure
       </p>
     </div>
   </div>

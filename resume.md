@@ -454,7 +454,7 @@ class: resume
         executive team with responsibility for product & company strategy.
       </p>
       <p>
-        Environment: iOS, Android, .NET, AWS, Azure
+        Environment: iOS, Android, .NET, AWS, Azure, JavaScript
       </p>
     </div>
   </div>
@@ -525,7 +525,7 @@ class: resume
         role as the company transitioned to more effective methods of product development.
       </p>
       <p>
-        Environment: Java, Objective-C, Scala, Python, Ruby, Linux, AWS
+        Environment: Java, Objective-C, Scala, Python, Ruby, JavaScript, Linux, AWS
       </p>
     </div>
   </div>
@@ -549,7 +549,7 @@ class: resume
         Microsystems’s Enterprise Java courses such as FJ-310 and SL-351.
       </p>
       <p>
-        Environment: Java, J2EE, JavaEE, WebSphere, MySQL, Oracle, Linux, Scrum, RUP
+        Environment: Java, JavaScript, J2EE, JavaEE, WebSphere, MySQL, Oracle, Linux, Scrum, RUP
       </p>
     </div>
   </div>
@@ -591,7 +591,7 @@ class: resume
         LPAR (Logical partitioning) and SQL.
       </p>
       <p>
-        Environment: Java, iSeries, OS/400, DB2, Movex
+        Environment: Java, JavaScript, iSeries, OS/400, DB2, Movex
       </p>
     </div>
   </div>
@@ -722,7 +722,7 @@ class: resume
         low yield discount flyers.
       </p>
       <p>
-        Environment: Objective-C, Swift, Java, Ruby, Python, Machine Learning, AWS
+        Environment: Objective-C, Swift, Java, JavaScript, Ruby, Python, Machine Learning, AWS
       </p>
     </div>
   </div>

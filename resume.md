@@ -20,8 +20,8 @@ class: resume
       <h2>What I do, and want to continue doing</h2>
       <p>
         I am an engineer and technology generalist who thrives on defining and building successful technology products.
-        I love solving problems, preferably together with others, bouncing ideas and finding pragmatic solutions. 
-        I am all about getting things done and will take on whatever role, responsibility or task necessary to make 
+        I love solving problems, preferably together with others, bouncing ideas and finding pragmatic solutions.
+        I am all about getting things done and will take on whatever role, responsibility or task necessary to make
         progress.
       </p>
     </div>
@@ -59,7 +59,7 @@ class: resume
         </li>
       </ul>
     </div>
-    
+
     <div class="education">
       <h2>Education</h2>
       <ul>
@@ -100,7 +100,7 @@ class: resume
           <article class="experience wolterskluwer">
             <header>
               <h3>Wolters Kluwer, Architect</h3>
-              <time>Mar 2023 - Present</time>
+              <time>Mar 2023 - Sep 2023</time>
             </header>
           </article>
         </li>
@@ -292,18 +292,18 @@ class: resume
       <article class="experience wolterskluwer">
         <header>
           <h3>Wolters Kluwer, Architect</h3>
-          <time>Contract, Mar 2023 - Present</time>
+          <time>Contract, Mar 2023 - Sep 2023</time>
           <p>Gothenburg, Remote</p>
         </header>
       </article>
     </div>
     <div class="grid-item">
       <p>
-        Interim position where I support the leadership team in several tech related areas, combining responsibilities 
-        of CTO, Architect, and Operations Lead. Technology leadership and management focusing on org design, tech 
-        and competency strategy, process and delivery improvements. Architecture responsibilities focusing on 
-        architecture principles, patterns, governance and delivery enablement of the next generation web platform. 
-        Operations responsibilities focusing on reliability, performance, observability and incident management. 
+        Interim position where I support the leadership team in several tech related areas, combining responsibilities
+        of CTO, Architect, and Operations Lead. Technology leadership and management focusing on org design, tech
+        and competency strategy, process and delivery improvements. Architecture responsibilities focusing on
+        architecture principles, patterns, governance and delivery enablement of the next generation web platform.
+        Operations responsibilities focusing on reliability, performance, observability and incident management.
       </p>
       <p>
         Environment: Azure, C#, .NET Core

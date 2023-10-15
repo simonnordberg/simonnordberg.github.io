@@ -333,7 +333,7 @@ class: resume
         initiatives impacting all developers at the company.
       </p>
       <p>
-        Environment: GCP, AWS, Bigtable, Cassandra, Java, Python, Kubernetes
+        Environment: GCP, AWS, Bigtable, Cassandra, Elasticsearch, Java, Python, Kubernetes
       </p>
     </div>
   </div>
@@ -359,7 +359,7 @@ class: resume
         engineers.
       </p>
       <p>
-        Environment: GCP, AWS, Bigtable, Cassandra, Java, Python, Kubernetes
+        Environment: GCP, AWS, Bigtable, Cassandra, Elasticsearch, Java, Python, Kubernetes
       </p>
     </div>
   </div>
@@ -526,7 +526,7 @@ class: resume
         role as the company transitioned to more effective methods of product development.
       </p>
       <p>
-        Environment: Java, Objective-C, Scala, Python, Ruby, JavaScript, Linux, AWS
+        Environment: Java, Objective-C, Scala, Python, Ruby, MongoDB, RabbitMQ, JavaScript, Linux, AWS
       </p>
     </div>
   </div>

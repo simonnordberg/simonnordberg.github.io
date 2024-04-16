@@ -308,12 +308,12 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Interim position where I led a team responsible for an emerging declarative infrastructure platform
+        Interim position where I lead a team responsible for an emerging declarative infrastructure platform
         that serves as the basis for a developer platform, and a unified way of managing platform resources.
-        Part of my assignment also included coaching of leaders in the platform org how to build and cultivate
+        Part of my assignment also includes coaching of leaders in the platform org how to build and cultivate
         an effective product development culture focusing on platform and infrastructure products. Additionally,
-        I led the creation of the product strategy for the relatively new department I was part of. Mixed
-        role that spanned several teams and different parts of the broader platform org.
+        I lead the creation of the product strategy for the relatively new department I am part of. Mixed
+        role that spans many teams across the broader platform org.
       </p>
       <p>
         Environment: Azure, AWS, Kubernetes, Java, .NET Core

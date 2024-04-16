@@ -308,10 +308,12 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Interim position where I lead a team responsible for an emerging declarative infrastructure platform
-        that serves the basis for a developer platform and a unified way of managing platform resources.
-        Part of my assignment also include coaching leaders in the platform org how to build and cultivate
-        an effective product development org focusing on platform and infrastructure products.
+        Interim position where I led a team responsible for an emerging declarative infrastructure platform
+        that serves the basis for a developer platform, and a unified way of managing platform resources.
+        Part of my assignment also included coaching of leaders in the platform org how to build and cultivate
+        an effective product development culture focusing on platform and infrastructure products. Additionally,
+        I led the creation of the product strategy for the relatively new department I was part of. Mixed
+        role that spanned several teams and different parts of the broader platform org.
       </p>
       <p>
         Environment: Azure, AWS, Kubernetes, Java, .NET Core
@@ -331,7 +333,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Interim position where I support the leadership team in several tech related areas, combining responsibilities
+        Interim position where I supported the leadership team in several tech related areas, combining responsibilities
         of CTO, Architect, and Operations Lead. Technology leadership and management focusing on org design, tech
         and competency strategy, process and delivery improvements. Architecture responsibilities focusing on
         architecture principles, patterns, governance and delivery enablement of the next generation web platform.

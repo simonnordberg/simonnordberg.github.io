@@ -285,6 +285,10 @@ body.resume {
     &.wolterskluwer > header {
       background-image: url('/assets/wolterskluwer.png');
     }
+
+    &.volvocars > header {
+      background-image: url('/assets/volvocars.png');
+    }
   }
 
   address .contact, .download {

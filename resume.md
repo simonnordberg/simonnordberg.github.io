@@ -8,7 +8,7 @@ class: resume
   <div class="grid-item">
     <div class="contact">
       <h1>Simon Nordberg</h1>
-      <p>Software Engineer | Software Architecture & Technology Leadership</p>
+      <p>Product & Technology Leadership | Platform & Infrastructure</p>
       <address>
         <a class="contact email" href="mailto:simon@simonnordberg.com">simon@simonnordberg.com</a><br>
         <a class="contact phone" href="tel:+46706155590">+46(0)706-15 55 90</a>
@@ -17,12 +17,13 @@ class: resume
   </div>
   <div class="grid-item">
     <div class="summary">
-      <h2>What I do, and want to continue doing</h2>
+      <h2>Professional aspirations</h2>
       <p>
-        I am an engineer and technology generalist who thrives on defining and building successful technology products.
-        I love solving problems, preferably together with others, bouncing ideas and finding pragmatic solutions.
-        I am all about getting things done and will take on whatever role, responsibility or task necessary to make
-        progress.
+        I am a seasoned engineer and technology generalist passionate about developing technology products,
+        specializing in platform and infrastructure. I excel in roles at the intersection of technology,
+        business, and people management. Though experienced in leadership, I prefer high-impact individual
+        contributor roles, leveraging my technical expertise, strategic thinking, and stakeholder management
+        skills. I thrive in collaborative, pragmatic environments.
       </p>
     </div>
   </div>
@@ -97,9 +98,17 @@ class: resume
       <h2>Experience</h2>
       <ul>
         <li>
+          <article class="experience volvocars">
+            <header>
+              <h3>Volvo Cars, Product Manager (contract)</h3>
+              <time>Jan 2024 - current</time>
+            </header>
+          </article>
+        </li>
+        <li>
           <article class="experience wolterskluwer">
             <header>
-              <h3>Wolters Kluwer, Architect</h3>
+              <h3>Wolters Kluwer, Architect (contract)</h3>
               <time>Mar 2023 - Sep 2023</time>
             </header>
           </article>
@@ -143,7 +152,7 @@ class: resume
                 <li>
                   <article>
                     <header>
-                      <h4>Product Manager, Cloud Infrastructure</h4>
+                      <h4>Product Manager, Cloud Infrastructure (contract)</h4>
                       <time>Dec 2018 - Apr 2019</time>
                     </header>
                   </article>
@@ -151,7 +160,7 @@ class: resume
                 <li>
                   <article>
                     <header>
-                      <h4>Product Manager, Messaging Infrastructure</h4>
+                      <h4>Product Manager, Messaging Infrastructure (contract)</h4>
                       <time>Mar 2018 - Apr 2019</time>
                     </header>
                   </article>
@@ -163,7 +172,7 @@ class: resume
         <li>
           <article class="experience sysarb">
             <header>
-              <h3>Sysarb, Advisor</h3>
+              <h3>Sysarb, Advisor (contract)</h3>
               <time>Feb 2018 - Jun 2019</time>
             </header>
           </article>
@@ -179,7 +188,7 @@ class: resume
                 <li>
                   <article>
                     <header>
-                      <h4>Interim CTO</h4>
+                      <h4>Interim CTO (contract)</h4>
                       <time>Jan 2017 - Jun 2017</time>
                     </header>
                   </article>
@@ -187,7 +196,7 @@ class: resume
                 <li>
                   <article>
                     <header>
-                      <h4>Product Manager</h4>
+                      <h4>Product Manager (contract)</h4>
                       <time>May 2016 - Jan 2017</time>
                     </header>
                   </article>
@@ -195,7 +204,7 @@ class: resume
                 <li>
                   <article>
                     <header>
-                      <h4>Software Engineer & Architect</h4>
+                      <h4>Software Engineer & Architect (contract)</h4>
                       <time>Jun 2015 - May 2016</time>
                     </header>
                   </article>
@@ -286,6 +295,29 @@ class: resume
 
 <div class="details experience-details">
   <h2>Experience, in more detail</h2>
+
+  <div class="grid-container">
+    <div class="grid-item">
+      <article class="experience volvocars">
+        <header>
+          <h3>Volvo Cars, Product Manager</h3>
+          <time>Contract, Jan 2024 - current</time>
+          <p>Gothenburg, Stockholm, Remote</p>
+        </header>
+      </article>
+    </div>
+    <div class="grid-item">
+      <p>
+        Interim position where I lead a team responsible for an emerging declarative infrastructure platform
+        that serves the basis for a developer platform and a unified way of managing platform resources.
+        Part of my assignment also include coaching leaders in the platform org how to build and cultivate
+        an effective product development org focusing on platform and infrastructure products.
+      </p>
+      <p>
+        Environment: Azure, AWS, Kubernetes, Java, .NET Core
+      </p>
+    </div>
+  </div>
 
   <div class="grid-container">
     <div class="grid-item">

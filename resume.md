@@ -309,7 +309,7 @@ class: resume
     <div class="grid-item">
       <p>
         Interim position where I led a team responsible for an emerging declarative infrastructure platform
-        that serves the basis for a developer platform, and a unified way of managing platform resources.
+        that serves as the basis for a developer platform, and a unified way of managing platform resources.
         Part of my assignment also included coaching of leaders in the platform org how to build and cultivate
         an effective product development culture focusing on platform and infrastructure products. Additionally,
         I led the creation of the product strategy for the relatively new department I was part of. Mixed

@@ -84,7 +84,7 @@ class: resume
         </li>
         <li>
           <h3>Non-fiction book worm</h3>
-          <p>Love to learn and read; science, philosophy, psychology, medicine, arts, economics to name a few.</p>
+          <p>Love to read and learn; science, philosophy, psychology, medicine, arts, economics etc.</p>
         </li>
         <li>
           <h3>Beer brewer</h3>

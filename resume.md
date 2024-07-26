@@ -125,7 +125,7 @@ class: resume
                   <article>
                     <header>
                       <h4>Principal Product Manager</h4>
-                      <time>Feb 2022 - Sep 2022</time>
+                      <time>Jan 2022 - Sep 2022</time>
                     </header>
                   </article>
                 </li>
@@ -144,29 +144,9 @@ class: resume
         <li>
           <article class="experience atg">
             <header>
-              <h3>AB Trav och Galopp</h3>
+              <h3>ATG, Product Manager (contract)</h3>
               <time>Mar 2018 - Apr 2019</time>
             </header>
-            <section>
-              <ul>
-                <li>
-                  <article>
-                    <header>
-                      <h4>Product Manager, Cloud Infrastructure (contract)</h4>
-                      <time>Dec 2018 - Apr 2019</time>
-                    </header>
-                  </article>
-                </li>
-                <li>
-                  <article>
-                    <header>
-                      <h4>Product Manager, Messaging Infrastructure (contract)</h4>
-                      <time>Mar 2018 - Apr 2019</time>
-                    </header>
-                  </article>
-                </li>
-              </ul>
-            </section>
           </article>
         </li>
         <li>
@@ -232,7 +212,7 @@ class: resume
         <li>
           <article class="experience roxen">
             <header>
-              <h3>Roxen Internet Software, Developer</h3>
+              <h3>Roxen Internet Software, Software Engineer</h3>
               <time>Aug 2006 - Nov 2007</time>
             </header>
           </article>
@@ -350,7 +330,7 @@ class: resume
       <article class="experience spotify">
         <header>
           <h3>Spotify, Principal Product Manager</h3>
-          <time>Full-time, Feb 2022 - Sep 2022</time>
+          <time>Full-time, Jan 2022 - Sep 2022</time>
           <p>New York, Stockholm, Remote</p>
         </header>
       </article>
@@ -402,36 +382,7 @@ class: resume
     <div class="grid-item">
       <article class="experience atg">
         <header>
-          <h3>ATG, Product Manager, Cloud Infrastructure</h3>
-          <time>Contract, Dec 2018 - Apr 2019</time>
-          <p>Stockholm</p>
-        </header>
-      </article>
-    </div>
-    <div class="grid-item">
-      <p>
-        I led the effort of productizing the cloud service offer to improve developer productivity and
-        happiness, including product strategy, roadmap, operational concerns, compliance, quality assurance etc.
-      </p>
-      <p>
-        One part was a governance model to allow development teams to get access to the cloud provider (AWS)
-        with a feature baseline including SSO, aggregated billing, logging, policy & auditing, VPN connectivity
-        to the data center.
-      </p>
-      <p>
-        In addition, we also acted as a Site Reliability Engineering (SRE) team with a mission to provide
-        world-class reliability to the onboarded services hosted on the cloud platform.
-      </p>
-      <p>
-        Environment: AWS, Kubernetes, Networking
-      </p>
-    </div>
-  </div>
-  <div class="grid-container">
-    <div class="grid-item">
-      <article class="experience atg">
-        <header>
-          <h3>ATG, Product Manager, Messaging Infrastructure</h3>
+          <h3>ATG, Product Manager, Cloud & Messaging Infrastructure</h3>
           <time>Contract, Mar 2018 - Apr 2019</time>
           <p>Stockholm</p>
         </header>
@@ -439,17 +390,21 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        I led the effort of productizing the backend messaging service offer to improve developer productivity
-        and happiness, including product strategy, roadmap, operational concerns, compliance, quality assurance
-        etc.
+        I led the effort of productizing both the cloud and messaging service offer to improve developer productivity and
+        happiness, including product strategy, roadmap, operational concerns, compliance, quality assurance etc.
       </p>
       <p>
-        The service was based on the Solace messaging platform. As a part of the packaging I also architected
+        This included establishing a governance model to allow development teams to get access to the cloud provider (AWS)
+        with a feature baseline including SSO, aggregated billing, logging, policy & auditing, VPN connectivity
+        to the data center. 
+      </p>
+      <p>
+        The messaging service was based on the Solace messaging platform. As a part of the packaging I also architected
         and developed an infrastructure-as-code framework (written in Python), processes and a governance model
         to allow development teams to self-service resources and application level messaging configuration.
       </p>
       <p>
-        Environment: Solace (Appliance & VMR), Python, Golang, Networking, SAN
+        Environment: AWS, Kubernetes, Networking, Solace (Appliance & VMR), Python, Golang, SAN
       </p>
     </div>
   </div>

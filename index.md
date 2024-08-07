@@ -1,6 +1,4 @@
 ---
 layout: simple
+title: Hello
 ---
-<ul>
-  <li><a href="/resume/">Simon Nordberg</a></li>
-</ul>

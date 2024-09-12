@@ -80,7 +80,7 @@ class: resume
       <ul>
         <li>
           <h3>Outdoor aficionado</h3>
-          <p>Happiest outside, I spend a lot of my free time running and skiing.</p>
+          <p>Happiest outside, I spend my free time running, skiing and mountainbiking.</p>
         </li>
         <li>
           <h3>Non-fiction book worm</h3>
@@ -168,7 +168,7 @@ class: resume
                 <li>
                   <article>
                     <header>
-                      <h4>Interim CTO (contract)</h4>
+                      <h4>CTO (interim, contract)</h4>
                       <time>Jan 2017 - Jun 2017</time>
                     </header>
                   </article>
@@ -269,7 +269,7 @@ class: resume
     able to quickly get up to speed and be productive in a new environment.
   </p>
   <p>
-    Personally, I am a devoted trail and ultra runner, downhill skier, occasional DJ and self-improvement nerd.
+    Personally, I am a devoted trail- and ultra runner, downhill skier, mountainbiker, and self-improvement nerd.
   </p>
 </div>
 
@@ -432,7 +432,7 @@ class: resume
     <div class="grid-item">
       <article class="experience urb-it">
         <header>
-          <h3>Urb-it, Interim CTO</h3>
+          <h3>Urb-it, CTO (interim)</h3>
           <time>Contract, Jan 2017 - Jun 2017</time>
           <p>Stockholm</p>
         </header>

@@ -8,10 +8,10 @@ class: resume
   <div class="grid-item">
     <div class="contact">
       <h1>Simon Nordberg</h1>
-      <p>Product & Technology Leadership | Platform & Infrastructure</p>
+      <p>Software, Strategy, and Execution</p>
       <address>
-        <a class="contact email" href="mailto:simon@simonnordberg.com">simon@simonnordberg.com</a><br>
-        <a class="contact phone" href="tel:+46706155590">+46(0)706-15 55 90</a>
+        <a class="contact email">simon [at] simonnordberg.com</a><br>
+        <a class="contact phone">+46706155590</a>
       </address>
     </div>
   </div>
@@ -19,11 +19,13 @@ class: resume
     <div class="summary">
       <h2>Professional aspirations</h2>
       <p>
-        I am a seasoned engineer and technology generalist passionate about developing technology products,
-        specializing in platform and infrastructure. I excel in roles at the intersection of technology,
-        business, and people management. Though experienced in leadership, I prefer high-impact individual
-        contributor roles, leveraging my technical expertise, strategic thinking, and stakeholder management
-        skills. I thrive in collaborative, pragmatic environments.
+        I’m a tech generalist and problem-solver who’s built products, led teams, started companies, and untangled tech
+        messes for 20+ years. While I’ve been a CTO and a manager, I prefer high-impact IC roles where I can blend
+        strategy, tech, and stakeholder wrangling.
+      </p>
+      <p>
+        I learn fast, thrive in pragmatic environments, and have a reputation for making things work (without
+        unnecessary meetings).
       </p>
     </div>
   </div>
@@ -60,7 +62,6 @@ class: resume
         </li>
       </ul>
     </div>
-
     <div class="education">
       <h2>Education</h2>
       <ul>
@@ -74,7 +75,6 @@ class: resume
         </li>
       </ul>
     </div>
-
     <div class="fun-facts">
       <h2>Fun facts</h2>
       <ul>
@@ -254,7 +254,7 @@ class: resume
   </div>
 </div>
 
-<hr/>
+<hr />
 
 <div class="details about-details">
   <h2>More about me</h2>
@@ -280,7 +280,7 @@ class: resume
     <div class="grid-item">
       <article class="experience volvocars">
         <header>
-          <h3>Volvo Cars, Product Manager</h3>
+          <h3>Volvo Cars, Product Manager (contract)</h3>
           <time>Contract, Jan 2024 - current</time>
           <p>Gothenburg, Stockholm, Remote</p>
         </header>
@@ -288,15 +288,13 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Interim position where I lead a team responsible for an emerging declarative infrastructure platform
-        that serves as the basis for a developer platform, and a unified way of managing platform resources.
-        Part of my assignment also includes coaching of leaders in the platform org how to build and cultivate
-        an effective product development culture focusing on platform and infrastructure products. Additionally,
-        I lead the creation of the product strategy for the relatively new department I am part of. Mixed
-        role that spans many teams across the broader platform org.
+        Led a team building a declarative infrastructure platform, enabling a unified approach to managing platform
+        resources and improving the developer experience. Drove product strategy for a new department and coached
+        platform leaders on fostering an effective product development culture for infrastructure and platform teams.
+        Worked across multiple teams to align technical and strategic initiatives.
       </p>
       <p>
-        Environment: Azure, AWS, Kubernetes, Java, .NET Core
+        Tech stack: Azure, AWS, Kubernetes, Java, .NET Core
       </p>
     </div>
   </div>
@@ -305,7 +303,7 @@ class: resume
     <div class="grid-item">
       <article class="experience wolterskluwer">
         <header>
-          <h3>Wolters Kluwer, Architect</h3>
+          <h3>Wolters Kluwer, Architect (contract)</h3>
           <time>Contract, Mar 2023 - Sep 2023</time>
           <p>Gothenburg, Remote</p>
         </header>
@@ -313,14 +311,13 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Interim position where I supported the leadership team in several tech related areas, combining responsibilities
-        of CTO, Architect, and Operations Lead. Technology leadership and management focusing on org design, tech
-        and competency strategy, process and delivery improvements. Architecture responsibilities focusing on
-        architecture principles, patterns, governance and delivery enablement of the next generation web platform.
-        Operations responsibilities focusing on reliability, performance, observability and incident management.
+        Supported the leadership team across CTO, Architecture, and Operations domains. Led technology strategy, org
+        design, and process improvements to enhance delivery and technical excellence. Defined architecture principles,
+        patterns, and governance for the next-generation web platform. Improved reliability, performance, observability,
+        and incident management for operational resilience.
       </p>
       <p>
-        Environment: Azure, C#, .NET Core
+        Tech stack: Azure, C#, .NET Core
       </p>
     </div>
   </div>
@@ -337,17 +334,16 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Product lead for the Cloud Storage Product Area in Spotify's Platform team responsible for the storage and
-        database portfolio that enable R&D teams to safely and effectively build and deploy stateful workloads to serve
-        Spotify customers worldwide. Managed a global team of senior product managers with a relentless focus on
-        developer productivity and happiness while balancing reliability, performance and cost.
+        Led the Cloud Storage Product Area, managing a portfolio of storage and database solutions that enabled
+        Spotify’s R&D teams to build and deploy stateful workloads at scale. Managed a global team of senior product
+        managers, driving developer productivity while balancing reliability, performance, and cost.
       </p>
       <p>
-        I was also strategy lead for a number of large-scale platform productivity and business continuity
-        initiatives impacting all developers at the company.
+        Also served as strategy lead for company-wide platform productivity and business continuity initiatives,
+        impacting all developers.
       </p>
       <p>
-        Environment: GCP, AWS, Bigtable, Cassandra, Elasticsearch, Java, Python, Kubernetes
+        Tech stack: GCP, AWS, Bigtable, Cassandra, Elasticsearch, Java, Python, Kubernetes
       </p>
     </div>
   </div>
@@ -364,16 +360,12 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Product manager in two Platform teams responsible for the storage and database portfolio focusing on developer
-        productivity, reliability, performance and cost.
+        Managed storage and database platform teams, driving improvements in developer productivity, reliability,
+        performance, and cost. Additionally contributed to teams focused on configuration management and backend service
+        foundations, enhancing developer experience for backend engineers.
       </p>
       <p>
-        During this period I was also involved in two other Platform teams responsible for configuration
-        management and the foundation for our backend services, focusing on developer productivity for backend
-        engineers.
-      </p>
-      <p>
-        Environment: GCP, AWS, Bigtable, Cassandra, Elasticsearch, Java, Python, Kubernetes
+        Tech stack: GCP, AWS, Bigtable, Cassandra, Elasticsearch, Java, Python, Kubernetes
       </p>
     </div>
   </div>
@@ -382,7 +374,7 @@ class: resume
     <div class="grid-item">
       <article class="experience atg">
         <header>
-          <h3>ATG, Product Manager, Cloud & Messaging Infrastructure</h3>
+          <h3>ATG, Product Manager (contract)</h3>
           <time>Contract, Mar 2018 - Apr 2019</time>
           <p>Stockholm</p>
         </header>
@@ -390,21 +382,16 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        I led the effort of productizing both the cloud and messaging service offer to improve developer productivity and
-        happiness, including product strategy, roadmap, operational concerns, compliance, quality assurance etc.
+        Led the productization of cloud and messaging services to enhance developer productivity and operational
+        efficiency. Defined product strategy, roadmap, compliance, and quality assurance.
       </p>
       <p>
-        This included establishing a governance model to allow development teams to get access to the cloud provider (AWS)
-        with a feature baseline including SSO, aggregated billing, logging, policy & auditing, VPN connectivity
-        to the data center. 
+        Established a governance model for AWS access, providing teams with SSO, aggregated billing, logging, policy
+        enforcement, auditing, and VPN connectivity. Designed and developed an Infrastructure-as-Code framework (Python)
+        for self-service provisioning and application-level messaging configuration on the Solace platform.
       </p>
       <p>
-        The messaging service was based on the Solace messaging platform. As a part of the packaging I also architected
-        and developed an infrastructure-as-code framework (written in Python), processes and a governance model
-        to allow development teams to self-service resources and application level messaging configuration.
-      </p>
-      <p>
-        Environment: AWS, Kubernetes, Networking, Solace (Appliance & VMR), Python, Golang, SAN
+        Tech stack: AWS, Kubernetes, Networking, Solace (Appliance & VMR), Python, Golang, SAN
       </p>
     </div>
   </div>
@@ -412,7 +399,7 @@ class: resume
     <div class="grid-item">
       <article class="experience sysarb">
         <header>
-          <h3>Sysarb, Advisor</h3>
+          <h3>Sysarb, Advisor (contract)</h3>
           <time>Contract, Feb 2018 - Jun 2019</time>
           <p>Arboga, Stockholm, Remote</p>
         </header>
@@ -420,11 +407,11 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Sysarb's vision is to help its customers achieve workplace equality. I was product and technology advisor and
-        part of the management team.
+        Advised on product and technology strategy as part of the management team, supporting Sysarb’s vision of
+        achieving workplace equality for its customers.
       </p>
       <p>
-        Environment: AWS, Azure, .NET
+        Tech stack: AWS, Azure, .NET
       </p>
     </div>
   </div>
@@ -432,7 +419,7 @@ class: resume
     <div class="grid-item">
       <article class="experience urb-it">
         <header>
-          <h3>Urb-it, CTO (interim)</h3>
+          <h3>Urb-it, CTO (contract)</h3>
           <time>Contract, Jan 2017 - Jun 2017</time>
           <p>Stockholm</p>
         </header>
@@ -440,11 +427,11 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        I led the engineering teams, product managers, UX, system integrators and test teams. Also part of the
-        executive team with responsibility for product & company strategy.
+        Led engineering, product management, UX, system integration, and test teams. Served on the executive team,
+        driving product and company strategy.
       </p>
       <p>
-        Environment: iOS, Android, JavaScript, .NET, AWS, Azure
+        Tech stack: iOS, Android, JavaScript, .NET, AWS, Azure
       </p>
     </div>
   </div>
@@ -452,7 +439,7 @@ class: resume
     <div class="grid-item">
       <article class="experience urb-it">
         <header>
-          <h3>Urb-it, Product Manager</h3>
+          <h3>Urb-it, Product Manager (contract)</h3>
           <time>Contract, May 2016 - Jan 2017</time>
           <p>Stockholm</p>
         </header>
@@ -460,15 +447,12 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        I managed the native mobile apps product suite consisting of four apps. Two consumer facing (Android &
-        iOS) and two for merchants and couriers.
+        Managed a suite of four native mobile apps (iOS & Android) for consumers, merchants, and couriers. Led two
+        development teams—one co-located and one distributed across two continents—to drive product development and
+        delivery.
       </p>
       <p>
-        Development was done in two teams that I managed, one team was co-located and one team distributed over two
-        continents.
-      </p>
-      <p>
-        Environment: iOS, Android, Objective-C, Swift, Java, Kotlin
+        Tech stack: iOS, Android, Objective-C, Swift, Java, Kotlin
       </p>
     </div>
   </div>
@@ -476,7 +460,7 @@ class: resume
     <div class="grid-item">
       <article class="experience urb-it">
         <header>
-          <h3>Urb-it, Software Engineer & Architect</h3>
+          <h3>Urb-it, Software Engineer & Architect (contract)</h3>
           <time>Contract, Jun 2015 - May 2016</time>
           <p>Stockholm</p>
         </header>
@@ -484,10 +468,11 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        System architect and developer of three iOS apps, targeting customers, merchants and couriers.
+        Designed and developed three iOS apps for customers, merchants, and couriers, ensuring scalability and a
+        seamless user experience.
       </p>
       <p>
-        Environment: Objective-C, Swift, Storyboard, MVVM
+        Tech stack: Objective-C, Swift, Storyboard, MVVM
       </p>
     </div>
   </div>
@@ -503,19 +488,13 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Full service agency that developers and designs digital experiences.
+        Established and evolved development and architectural best practices across internal and client projects. Led
+        software engineering efforts across diverse industries, including media, e-commerce, and tourism. Acted as a
+        team lead and agile advocate, driving the company’s transition to more effective product development
+        methodologies.
       </p>
       <p>
-        I was a systems architect and engineer responsible for establishing and evolving sound development and
-        architectural practices across internal and external projects. Involved in countless projects in a number of
-        industries, e.g. media, e-commerce, tourism to name a few.
-      </p>
-      <p>
-        Highly involved as a software engineer and team lead. Advocate of agility in the software process with a leading
-        role as the company transitioned to more effective methods of product development.
-      </p>
-      <p>
-        Environment: Java, Objective-C, Scala, Python, Ruby, MongoDB, RabbitMQ, JavaScript, Linux, AWS
+        Tech stack: Java, Objective-C, Scala, Python, Ruby, MongoDB, RabbitMQ, JavaScript, Linux, AWS
       </p>
     </div>
   </div>
@@ -531,15 +510,12 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Solution architect and consultant specializing on enterprise Java applications based on JBoss or WebSphere.
-        Projects were conducted with customers mainly from government, military and insurance industries.
+        Specialized in enterprise Java applications on JBoss and WebSphere, delivering solutions for government,
+        military, and insurance clients. Established architectural guidelines within the company and served as an
+        instructor for Sun Microsystems’ Enterprise Java courses (FJ-310, SL-351).
       </p>
       <p>
-        Responsible for establishing architectural guidelines within the company. Instructor on a number of Sun
-        Microsystems’s Enterprise Java courses such as FJ-310 and SL-351.
-      </p>
-      <p>
-        Environment: Java, JavaScript, J2EE, JavaEE, WebSphere, MySQL, Oracle, Linux, Scrum, RUP
+        Tech stack: Java, JavaScript, J2EE, JavaEE, WebSphere, MySQL, Oracle, Linux, Scrum, RUP
       </p>
     </div>
   </div>
@@ -555,11 +531,10 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Software developer on the Roxen Editorial Portal product, a web based multichannel publishing tool
-        aimed at the media market.
+        Developed features for Roxen Editorial Portal, a web-based multichannel publishing tool for the media industry.
       </p>
       <p>
-        Environment: Pike, C, Linux, MySQL, XSLT, Scrum
+        Tech stack: Pike, C, Linux, MySQL, XSLT, Scrum
       </p>
     </div>
   </div>
@@ -575,13 +550,12 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Developer and Movex ERP system consultant, working closely with customers designing to implement custom
-        solution ranging from simpler integrations to entire application suites. Deep understanding of the IBM
-        iSeries platform gained through consultancy and teaching of topics such as Linux on iSeries, iSeries
-        LPAR (Logical partitioning) and SQL.
+        Designed and implemented custom solutions for Movex ERP, from integrations to full application suites. Gained
+        deep expertise in the IBM iSeries platform through consultancy and training on Linux on iSeries, iSeries LPAR,
+        and SQL.
       </p>
       <p>
-        Environment: Java, JavaScript, iSeries, OS/400, DB2, Movex
+        Tech stack: Java, JavaScript, iSeries, OS/400, DB2, Movex
       </p>
     </div>
   </div>
@@ -597,14 +571,14 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Master’s thesis entitled <a href="https://simonnordberg.com/assets/3G%20IPv6%20Node%20Emulator.pdf" target="_blank">3G IPv6 Node Emulator</a>
-        that includes application design and implementation of a
-        Gateway GPRS Support Node (GGSN) with IPv6 support. This node is to be used for 3G end-to-end terminal
-        testing. Implementation conducted in C/C++ and Python under a *BSD, Linux and Solaris environment. Work
-        also involves modifications to the FreeBSD kernel and IPv6 stack.
+        Master’s thesis entitled <a href="https://simonnordberg.com/assets/3G%20IPv6%20Node%20Emulator.pdf"
+          target="_blank">3G IPv6 Node Emulator</a>.
+        Designed and implemented a Gateway GPRS Support Node (GGSN) with IPv6 support for 3G end-to-end terminal
+        testing. Developed in C/C++ and Python on *BSD, Linux, and Solaris, including modifications to the FreeBSD
+        kernel and IPv6 stack.
       </p>
       <p>
-        Environment: C, C++, Linux, FreeBSD
+        Tech stack: C, C++, Linux, FreeBSD
       </p>
     </div>
   </div>
@@ -620,10 +594,10 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Part-time job teaching programming (C, C++, SQL and Visual Basic) to high school students.
+        Taught high school students programming in C, C++, SQL, and Visual Basic in a part-time role.
       </p>
       <p>
-        Environment: C, C++, SQL, Visual Basic
+        Tech stack: C, C++, SQL, Visual Basic
       </p>
     </div>
   </div>
@@ -639,11 +613,11 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Part-time job managing core and customer networks. Network infrastructure configuration, monitoring and
-        operations.
+        Managed core and customer networks, handling infrastructure configuration, monitoring, and operations.
+
       </p>
       <p>
-        Environment: Solaris, Linux, Cisco, Juniper
+        Tech stack: Solaris, Linux, Cisco, Juniper
       </p>
     </div>
   </div>
@@ -664,10 +638,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Solo venture providing product and technology consulting services.
-      </p>
-      <p>
-        Various research projects in e.g. Machine Learning and Game Engines.
+        Provided product and technology consulting services. Conducted research in areas such as AI, and game engines.
       </p>
     </div>
   </div>
@@ -684,13 +655,8 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        We want to provide startups, entrepreneurs, visionaries and enthusiasts a place to create change and do better
-        business together in a creative coworking environment. We currently have four locations across the city of
-        Östersund.
-      </p>
-      <p>
-        My main responsibility has been to oversee the product strategy and our digital presence. And also the coffee,
-        of course.
+        Led product strategy and digital presence for a creative coworking space supporting startups and entrepreneurs.
+        Also ensured top-quality coffee.
       </p>
     </div>
   </div>
@@ -707,12 +673,11 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Startup building digital products targeting the retail industry. We launched a platform that enable retailers to
-        effectively connect and communicate with their, largely replacing the need to print and distribute generic and
-        low yield discount flyers.
+        Built and launched a digital platform enabling retailers to connect with customers, reducing reliance on printed
+        discount flyers and improving engagement efficiency.
       </p>
       <p>
-        Environment: Objective-C, Swift, Java, JavaScript, Ruby, Python, Machine Learning, AWS
+        Tech stack: Objective-C, Swift, Java, JavaScript, Ruby, Python, Machine Learning, AWS
       </p>
     </div>
   </div>

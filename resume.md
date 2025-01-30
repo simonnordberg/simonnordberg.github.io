@@ -19,8 +19,8 @@ class: resume
     <div class="summary">
       <h2>Professional aspirations</h2>
       <p>
-        I’m a tech generalist and problem-solver who’s built products, led teams, started companies, and untangled tech
-        messes for 20+ years. While I’ve been a CTO and a manager, I prefer high-impact IC roles where I can blend
+        I'm a tech generalist and problem-solver who's built products, led teams, started companies, and untangled tech
+        messes for 20+ years. While I've been a CTO and a manager, I prefer high-impact IC roles where I can blend
         strategy, tech, and stakeholder wrangling.
       </p>
       <p>
@@ -335,7 +335,7 @@ class: resume
     <div class="grid-item">
       <p>
         Led the Cloud Storage Product Area, managing a portfolio of storage and database solutions that enabled
-        Spotify’s R&D teams to build and deploy stateful workloads at scale. Managed a global team of senior product
+        Spotify's R&D teams to build and deploy stateful workloads at scale. Managed a global team of senior product
         managers, driving developer productivity while balancing reliability, performance, and cost.
       </p>
       <p>
@@ -407,7 +407,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Advised on product and technology strategy as part of the management team, supporting Sysarb’s vision of
+        Advised on product and technology strategy as part of the management team, supporting Sysarb's vision of
         achieving workplace equality for its customers.
       </p>
       <p>
@@ -490,7 +490,7 @@ class: resume
       <p>
         Established and evolved development and architectural best practices across internal and client projects. Led
         software engineering efforts across diverse industries, including media, e-commerce, and tourism. Acted as a
-        team lead and agile advocate, driving the company’s transition to more effective product development
+        team lead and agile advocate, driving the company's transition to more effective product development
         methodologies.
       </p>
       <p>
@@ -512,7 +512,7 @@ class: resume
       <p>
         Specialized in enterprise Java applications on JBoss and WebSphere, delivering solutions for government,
         military, and insurance clients. Established architectural guidelines within the company and served as an
-        instructor for Sun Microsystems’ Enterprise Java courses (FJ-310, SL-351).
+        instructor for Sun Microsystems' Enterprise Java courses (FJ-310, SL-351).
       </p>
       <p>
         Tech stack: Java, JavaScript, J2EE, JavaEE, WebSphere, MySQL, Oracle, Linux, Scrum, RUP
@@ -571,7 +571,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Master’s thesis entitled <a href="https://simonnordberg.com/assets/3G%20IPv6%20Node%20Emulator.pdf"
+        Master's thesis entitled <a href="https://simonnordberg.com/assets/3G%20IPv6%20Node%20Emulator.pdf"
           target="_blank">3G IPv6 Node Emulator</a>.
         Designed and implemented a Gateway GPRS Support Node (GGSN) with IPv6 support for 3G end-to-end terminal
         testing. Developed in C/C++ and Python on *BSD, Linux, and Solaris, including modifications to the FreeBSD

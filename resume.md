@@ -95,7 +95,7 @@ class: resume
       <h2>Experience</h2>
       <ul>
         <li>
-          <article class="experience volvocars">
+          <article class="experience umain">
             <header>
               <h3>Umain, Technical Director</h3>
               <time>May 2025 - current</time>

@@ -19,13 +19,10 @@ class: resume
     <div class="summary">
       <h2>Professional aspirations</h2>
       <p>
-        I'm a tech generalist and problem-solver who's built products, led teams, started companies, and untangled tech
-        messes for 20+ years. While I've been a CTO and a manager, I prefer high-impact IC roles where I can blend
-        strategy, tech, and stakeholder wrangling.
+        I'm an expert generalist and problem-solver who has spent 20+ years building products, leading teams, and starting companies. I thrive in leadership roles that blend strategy and execution, whether that's setting technical direction for a company, architecting solutions, or jumping into the code when needed.
       </p>
       <p>
-        I learn fast, thrive in pragmatic environments, and have a reputation for making things work (without
-        unnecessary meetings).
+        Outside of work, I trail run ultras, mountain bike, ski downhill, brew beer, and read non-fiction obsessively.
       </p>
     </div>
   </div>

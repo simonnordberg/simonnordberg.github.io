@@ -97,8 +97,16 @@ class: resume
         <li>
           <article class="experience volvocars">
             <header>
+              <h3>Umain, Technical Director</h3>
+              <time>May 2025 - current</time>
+            </header>
+          </article>
+        </li>
+        <li>
+          <article class="experience volvocars">
+            <header>
               <h3>Volvo Cars, Product Manager (contract)</h3>
-              <time>Jan 2024 - current</time>
+              <time>Jan 2024 - Dec 2024</time>
             </header>
           </article>
         </li>
@@ -272,6 +280,22 @@ class: resume
 
 <div class="details experience-details">
   <h2>Experience, in more detail</h2>
+
+  <div class="grid-container">
+    <div class="grid-item">
+      <article class="experience umain">
+        <header>
+          <h3>Umain, Technical Director</h3>
+          <time>May 2025 - current</time>
+          <p>Gothenburg, Stockholm</p>
+        </header>
+      </article>
+    </div>
+    <div class="grid-item">
+      <p>
+      </p>
+    </div>
+  </div>
 
   <div class="grid-container">
     <div class="grid-item">

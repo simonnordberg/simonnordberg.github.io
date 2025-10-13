@@ -290,6 +290,10 @@ body.resume {
     &.volvocars > header {
       background-image: url('/assets/volvocars.png');
     }
+    
+    &.umain > header {
+      background-image: url('/assets/umain.svg');
+    }
   }
 
   address .contact, .download {

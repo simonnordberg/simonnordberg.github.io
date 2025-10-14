@@ -27,9 +27,6 @@ class: resume
         how all
         the pieces connect: vision, strategy, execution, and the people who make it happen.
       </p>
-      <p>
-        Outside of work, I trail run ultras, mountain bike, ski downhill, brew beer, and read non-fiction obsessively.
-      </p>
     </div>
   </div>
 </div>
@@ -270,47 +267,28 @@ class: resume
 <div class="details about-details page-break">
   <h2>What I'm looking for</h2>
   <p>30-130 person scale-ups post-PMF where what got you here won't get you there. Either:</p>
-  <ul>
 
-    <li>
-      <strong>Engineering/Product leadership (CTO, VP/Head of Engineering, CPO): </strong> Leading engineering, possibly
-      product, managing 3-8 teams while staying close to technical and product decisions rather than becoming a
-      distant
-      manager.
-    </li>
-    <li>
-      <strong>Senior technical staff (Staff/Principal Engineer, Chief Architect):</strong> High-impact technical work
-      solving the 3-5
-      critical problems blocking growth. Working in code and architecture, not just whiteboards, with organizational
-      influence.
-    </li>
+  <h3>Engineering/Product leadership (CTO, VP/Head of Engineering, CPO)</h3>
+  <p>Leading engineering, possibly product, managing 3-8 teams while staying close to technical and product decisions rather than becoming a distant manager.</p>
 
-  </ul>
-  <p>
-    Both require understanding the complete system, not optimizing parts in isolation.
-  </p>
+  <h3>Senior technical staff (Staff/Principal Engineer, Chief Architect)</h3>
+  <p>High-impact technical work solving the 3-5 critical problems blocking growth. Working in code and architecture, not just whiteboards, with organizational influence.</p>
+
+  <p>Both require understanding the complete system, not optimizing parts in isolation.</p>
 </div>
 
 <div class="details about-details">
   <h2>How I work</h2>
-  <p>I believe in incremental progress over grand rewrites, staying close to the actual work rather than managing from a
-    distance, and understanding how all the pieces fit together.</p>
-  <ul>
-    <li>
-      <strong>Compound over rewrite:</strong> I make systems incrementally better rather than starting over. Small
-      improvements in architecture, processes, operations, and teams compound into lasting change.
-    </li>
+  <p>I believe in incremental progress over grand rewrites, staying close to the actual work rather than managing from a distance, and understanding how all the pieces fit together.</p>
 
-    <li>
-      <strong>Stay close: </strong> I make systems incrementally better rather than starting over. Small
-      improvements in architecture, processes, operations, and teams compound into lasting change.
-    </li>
+  <h3>Compound over rewrite</h3>
+  <p>I make systems incrementally better rather than starting over. Small improvements in architecture, processes, operations, and teams compound into lasting change.</p>
 
-    <li>
-      <strong>See the whole:</strong> I care about how vision, strategy, execution, working product, culture, and people
-      connect. Understanding the complete system matters more than optimizing any single part.
-    </li>
-  </ul>
+  <h3>Stay close</h3>
+  <p>I remain connected to the work itself rather than managing from a distance. Understanding details matters for making good decisions and maintaining technical credibility.</p>
+
+  <h3>See the whole</h3>
+  <p>I care about how vision, strategy, execution, working product, culture, and people connect. Understanding the complete system matters more than optimizing any single part.</p>
 </div>
 
 <hr />

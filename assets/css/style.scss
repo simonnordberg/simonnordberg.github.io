@@ -6,9 +6,14 @@
 // ============================================================================
 
 $body-background: #fff;
-$body-foreground: #252525;
-$body-foreground-alt: #3c3c3c;
+$body-foreground: #1a1a1a;
+$body-foreground-secondary: #4a4a4a;
+$body-foreground-tertiary: #6b6b6b;
 $body-complementary: #cc3232;
+
+// Fonts
+$font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+$font-heading: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
 
 // ============================================================================
 // BASE STYLES
@@ -26,11 +31,14 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Lato', sans-serif;
-  font-weight: 300;
+  font-family: $font-body;
+  font-weight: 400;
   background: $body-background;
   color: $body-foreground;
-  font-size: 1.0rem;
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 a {
@@ -43,34 +51,42 @@ a {
 }
 
 h1, h2, h3, h4 {
-  margin-bottom: 0.5rem;
-  color: $body-foreground-alt;
-  font-family: 'IBM Plex Serif', serif;
-  font-weight: 700;
+  font-family: $font-heading;
+  color: $body-foreground;
+  line-height: 1.3;
+  margin: 0 0 0.75rem 0;
 }
 
 h1 {
-  font-size: 1.5rem;
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
 }
 
 h2 {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
 }
 
 h3 {
-  font-size: 0.9rem;
+  font-size: 1.125rem;
+  font-weight: 600;
 }
 
 h4 {
-  font-size: 0.9rem;
+  font-size: 1rem;
+  font-weight: 600;
 }
 
 p {
-  margin-bottom: 0.8rem;
+  margin: 0 0 1rem 0;
+  line-height: 1.6;
 }
 
 strong {
   font-weight: 600;
+  color: $body-foreground;
 }
 
 ul, ol {
@@ -97,7 +113,7 @@ blockquote {
   border-left: 4px solid $body-complementary;
   margin: 1.5rem 0 1.5rem 1em;
   padding-left: 1rem;
-  color: $body-foreground-alt;
+  color: $body-foreground-secondary;
 }
 
 pre {
@@ -111,10 +127,10 @@ pre {
 }
 
 hr {
-  width: 60%;
-  margin: 1.5rem auto;
+  width: 100%;
+  margin: 3rem 0;
   border: 0;
-  border-bottom: 0.1rem dashed #ccc;
+  border-bottom: 2px solid #e5e5e5;
 }
 
 body > header {
@@ -197,7 +213,7 @@ body.default main article header {
   p {
     margin: 0.2rem 0;
     font-size: 1rem;
-    color: $body-foreground-alt;
+    color: $body-foreground-secondary;
   }
 }
 
@@ -207,49 +223,94 @@ body.default main article header {
 
 body.resume {
   main {
-    max-width: 56rem;
+    max-width: 64rem;
+    padding: 2rem 1.5rem;
   }
 
+  // Contact section styling
+  .contact {
+    h1 {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      font-size: 1.125rem;
+      color: $body-foreground-secondary;
+      margin-bottom: 1.25rem;
+    }
+
+    address {
+      font-style: normal;
+    }
+  }
+
+  // Summary section styling
+  .summary {
+    p {
+      font-size: 1rem;
+      line-height: 1.7;
+    }
+  }
+
+  // Section headings
+  h2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 1.25rem;
+    margin-top: 2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e5e5e5;
+  }
+
+  // Experience list styling
   .boardwork, .education, .fun-facts, .experience-overview {
     ul {
       margin: 0;
+      padding: 0;
     }
 
     li {
       list-style-type: none;
-      margin: 0.2rem 0;
+      margin: 0 0 1rem 0;
     }
   }
 
-  article > header {
-    background-repeat: no-repeat;
-    background-position: left center;
-    background-size: 1.8rem;
-    background-origin: border-box;
-    display: block;
-    padding-left: 2.6rem;
-  }
-
+  // Experience articles with company logos
   article {
+    > header {
+      background-repeat: no-repeat;
+      background-position: left top;
+      background-size: 2rem;
+      background-origin: border-box;
+      display: block;
+      padding-left: 3rem;
+    }
+
+    h3, h4 {
+      margin: 0 0 0.25rem 0;
+      font-size: 1.125rem;
+    }
+
+    time {
+      font-size: 0.875rem;
+      color: $body-foreground-tertiary;
+      font-weight: 500;
+      display: block;
+      margin-bottom: 0.25rem;
+    }
+
     header p {
-      font-size: 0.9rem;
+      font-size: 0.875rem;
+      color: $body-foreground-tertiary;
+      margin: 0.25rem 0 0 0;
     }
 
-    header, section {
-      h3, h4 {
-        margin: 0;
-      }
-
-      time {
-        font-size: 0.9rem;
-      }
-
-      p, time {
-        color: $body-foreground-alt;
-        display: block;
-      }
+    section {
+      margin-top: 0.5rem;
     }
 
+    // Company logos
     &.hackerman > header {
       background-image: url('/assets/hackerman.png');
     }
@@ -323,53 +384,127 @@ body.resume {
     }
   }
 
-  address .contact, .download {
-    color: $body-foreground;
-    padding-left: 1.1rem;
-    font-size: 0.9rem;
-
+  // Contact info with icons
+  address .contact {
+    color: $body-foreground-secondary;
+    padding-left: 1.5rem;
+    font-size: 0.9375rem;
+    line-height: 1.8;
     background-repeat: no-repeat;
     background-position: left center;
-    background-size: 0.7rem;
+    background-size: 1rem;
     background-origin: border-box;
+
+    &.email {
+      background-image: url('/assets/email.png');
+    }
+
+    &.phone {
+      background-image: url('/assets/phone.png');
+    }
   }
 
+  // Download button
   .download {
-    padding: 1rem;
+    display: inline-block;
+    color: $body-complementary;
+    font-weight: 500;
+    padding: 0.75rem 1.25rem 0.75rem 2.5rem;
+    margin-bottom: 2rem;
+    border: 2px solid $body-complementary;
+    border-radius: 6px;
     background-image: url('/assets/download.png');
-  }
+    background-repeat: no-repeat;
+    background-position: 0.875rem center;
+    background-size: 1rem;
+    transition: all 0.2s ease;
 
-  address .email {
-    background-image: url('/assets/email.png');
-  }
-
-  address .phone {
-    background-image: url('/assets/phone.png');
+    &:hover {
+      background-color: $body-complementary;
+      color: white;
+      text-decoration: none;
+    }
   }
 
   // Grid layout for resume sections
   .grid-container {
     display: grid;
-    gap: 0 1rem;
+    gap: 2.5rem;
     grid-template-columns: 1fr 1.618fr;
+    margin-bottom: 2rem;
   }
 
-  .grid-item > div {
-    margin-bottom: 1.5rem;
+  .grid-item {
+    > div {
+      margin-bottom: 2.5rem;
+    }
   }
 
+  // Detail sections styling
   .details {
-    margin-bottom: 1rem;
+    margin-bottom: 2.5rem;
+
+    > h2 {
+      margin-top: 0;
+    }
+
+    ul {
+      margin: 1rem 0;
+      padding-left: 1.5rem;
+      list-style-type: disc;
+      list-style-position: outside;
+    }
+
+    li {
+      margin: 0.75rem 0;
+      line-height: 1.7;
+      padding-left: 0.25rem;
+    }
   }
 
+  // Experience and entrepreneurship detail sections
   .experience-details, .entrepreneurship-details {
     .grid-container {
-      border-radius: 0.1rem;
-      padding: 1rem;
+      border-radius: 8px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+      transition: background-color 0.2s ease;
     }
 
     .grid-container:nth-child(even) {
-      background: #f1f1f1;
+      background: #f8f8f8;
+    }
+
+    .grid-container:hover {
+      background: #f5f5f5;
+    }
+
+    h2 {
+      border-bottom: none;
+      margin-bottom: 2rem;
+    }
+
+    p {
+      font-size: 0.9375rem;
+      line-height: 1.7;
+    }
+  }
+
+  // Fun facts section
+  .fun-facts {
+    h3 {
+      font-size: 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    p {
+      font-size: 0.9375rem;
+      color: $body-foreground-secondary;
+      margin-bottom: 1rem;
+    }
+
+    li {
+      margin-bottom: 1.5rem;
     }
   }
 
@@ -385,7 +520,11 @@ body.resume {
 
 @media print {
   html {
-    font-size: 92%;
+    font-size: 10pt;
+  }
+
+  body {
+    color: #000;
   }
 
   * {
@@ -395,19 +534,180 @@ body.resume {
   }
 
   hr, .download {
-    display: none;
+    display: none !important;
   }
 
   main {
     max-width: 100%;
+    padding: 0.05rem 0.4rem;
   }
 
+  h1 {
+    font-size: 22pt;
+    margin-bottom: 0.1rem;
+  }
+
+  h2 {
+    font-size: 12pt;
+    margin-top: 0.25rem;
+    margin-bottom: 0.25rem;
+    padding-bottom: 0.1rem;
+  }
+
+  h3 {
+    font-size: 10pt;
+    margin-bottom: 0.03rem;
+  }
+
+  h4 {
+    font-size: 9pt;
+  }
+
+  p {
+    margin-bottom: 0.2rem;
+    line-height: 1.3;
+  }
+
+  // Force page break before this element
   .page-break {
     page-break-before: always;
   }
 
+  // Prevent page breaks inside these elements
   .grid-container {
     page-break-inside: avoid;
+    gap: 0.55rem;
+    margin-bottom: 0.35rem;
+  }
+
+  body.resume {
+    main {
+      padding: 0.05rem 0.4rem;
+    }
+
+    // Contact section - more compact
+    .contact {
+      h1 {
+        font-size: 22pt;
+        margin-bottom: 0.1rem;
+      }
+
+      p {
+        font-size: 11pt;
+        margin-bottom: 0.2rem;
+      }
+
+      address {
+        font-size: 9pt;
+        line-height: 1.25;
+      }
+    }
+
+    // Summary section - more compact
+    .summary {
+      h2 {
+        margin-top: 0.1rem;
+      }
+
+      p {
+        font-size: 9.5pt;
+        line-height: 1.3;
+        margin-bottom: 0.2rem;
+      }
+    }
+
+    // Tighter spacing for experience lists
+    article {
+      > header {
+        background-size: 1.3rem;
+        padding-left: 2.1rem;
+      }
+
+      h3, h4 {
+        font-size: 10.5pt;
+        margin-bottom: 0.05rem;
+      }
+
+      time {
+        font-size: 8.5pt;
+        margin-bottom: 0.05rem;
+      }
+
+      header p {
+        font-size: 8.5pt;
+        margin-bottom: 0.05rem;
+      }
+    }
+
+    // Compact list styling
+    .boardwork, .education, .fun-facts, .experience-overview {
+      h2 {
+        margin-top: 0.2rem;
+      }
+
+      ul {
+        margin: 0;
+        padding: 0;
+      }
+
+      li {
+        margin: 0 0 0.2rem 0;
+      }
+    }
+
+    // Fun facts - more compact
+    .fun-facts {
+      h3 {
+        font-size: 9.5pt;
+        margin-bottom: 0.08rem;
+      }
+
+      p {
+        font-size: 9.5pt;
+        margin-bottom: 0.12rem;
+      }
+
+      li {
+        margin-bottom: 0.25rem;
+      }
+    }
+
+    // Grid items - reduce spacing
+    .grid-item > div {
+      margin-bottom: 0.55rem;
+    }
+
+    // Detail sections - consistent sizing
+    .details {
+      margin-bottom: 0.8rem;
+
+      ul {
+        margin: 0.3rem 0;
+        padding-left: 1.2rem;
+        list-style-type: disc;
+        list-style-position: outside;
+      }
+
+      li {
+        margin: 0.2rem 0;
+        line-height: 1.4;
+        font-size: 9.5pt;
+        padding-left: 0.15rem;
+      }
+    }
+
+    // Experience detail sections - consistent sizing
+    .experience-details, .entrepreneurship-details {
+      .grid-container {
+        padding: 0.5rem;
+        margin-bottom: 0.5rem;
+        background: none !important;
+      }
+
+      h2 {
+        margin-bottom: 0.5rem;
+      }
+    }
   }
 }
 

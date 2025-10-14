@@ -264,13 +264,13 @@ class: resume
 
 <div class="details about-details page-break">
   <h2>Companies and roles I'm interested in</h2>
-  <p>I'm particularly interested in 20-150 person scale-ups post-PMF where what got you here won't necessarily get you further. This is my sweet spot, as I love the scaling challenges. While I'm primarily interested in the work and not really in specific titles (and how they mean different things in different places), they are helpful to frame and communicate broad categories of responsibilities and areas of focus. I'm primarily interested in these types of roles.</p>
+  <p>I'm particularly interested in 20-150 person scale-ups that have found product-market fit but are facing the challenges of scaling, where what got you here won't necessarily get you further. This is my sweet spot, as I enjoy tackling the complexities that come with growth. While I'm more focused on the work than on specific titles (which often mean different things in different companies), they can be useful for framing broad areas of responsibility. These are the kinds of roles I'm most drawn to.</p>
 
   <h3>Engineering/product leadership roles</h3>
-  <p>Leading engineering or product, managing 3-8 teams while staying close to technical and product decisions rather than becoming a distant manager. E.g. CTO, VP/Head of Engineering, CPO.</p>
+  <p>Leading engineering or product organizations, managing multiple teams while staying close to technical and product decisions, not just operating as a distant people manager. Roles include CTO, VP/Head of Engineering, or CPO.</p>
 
   <h3>Senior technical staff roles</h3>
-  <p>High-impact technical work solving the most critical problems blocking growth. Working in code and architecture, not just whiteboards, with organizational influence. E.g. staff/principal engineer, chief architect.</p>
+  <p>High-impact technical work solving the most critical problems blocking growth. Lead the technical vision and architecture for cross-cutting systems, facilitate architectural decisions, and ensure scalability, reliability, and alignment with business goals. Roles include Staff/Principal Engineer or Chief Architect.</p>
 
   <p>Both categories require understanding and influence of the entire system, including people, product, and technology, rather than the parts in isolation.</p>
 </div>
@@ -490,7 +490,7 @@ class: resume
     <div class="grid-item">
       <p>
         Managed a suite of four native mobile apps (iOS & Android) for consumers, merchants, and couriers. Led two
-        development teams—one co-located and one distributed across two continents—to drive product development and
+        development teams, one co-located and one distributed across two continents, to drive product development and
         delivery.
       </p>
       <p>

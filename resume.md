@@ -8,7 +8,7 @@ class: resume
   <div class="grid-item">
     <div class="contact">
       <h1>Simon Nordberg</h1>
-      <p>Software, strategy, and execution</p>
+      <p>Expert generalist: engineering, product & operations</p>
       <address>
         <a class="contact email">simon [at] simonnordberg.com</a><br>
         <a class="contact phone">+46706155590</a>
@@ -17,9 +17,15 @@ class: resume
   </div>
   <div class="grid-item">
     <div class="summary">
-      <h2>Professional aspirations</h2>
+      <h2>What I do</h2>
       <p>
-        I'm an expert generalist and problem-solver who has spent 20+ years building products, leading teams, and starting companies. I thrive in leadership roles that blend strategy and execution, whether that's setting technical direction for a company, architecting solutions, or jumping into the code when needed.
+        Expert generalist with 20+ years building products from engineering and product perspectives. I've scaled
+        platform
+        organizations at Spotify, operated as CTO at Urb-it, and co-founded multiple companies. I stay close to
+        technical
+        decisions rather than managing from a distance, believe in incremental improvement over rewrites, and care about
+        how all
+        the pieces connect: vision, strategy, execution, and the people who make it happen.
       </p>
       <p>
         Outside of work, I trail run ultras, mountain bike, ski downhill, brew beer, and read non-fiction obsessively.
@@ -261,19 +267,53 @@ class: resume
 
 <hr />
 
-<div class="details about-details">
-  <h2>More about me</h2>
+<div class="details about-details page-break">
+  <h2>What I'm looking for</h2>
+  <p>30-130 person scale-ups post-PMF where what got you here won't get you there. Either:</p>
+  <ul>
+
+    <li>
+      <strong>Engineering/Product leadership (CTO, VP/Head of Engineering, CPO): </strong> Leading engineering, possibly
+      product, managing 3-8 teams while staying close to technical and product decisions rather than becoming a
+      distant
+      manager.
+    </li>
+    <li>
+      <strong>Senior technical staff (Staff/Principal Engineer, Chief Architect):</strong> High-impact technical work
+      solving the 3-5
+      critical problems blocking growth. Working in code and architecture, not just whiteboards, with organizational
+      influence.
+    </li>
+
+  </ul>
   <p>
-    I have spent the past 20 years in various technology and product roles. I have started several companies. I have
-    been a CTO. I have been an individual contributor and a manager. I have been a consultant working with
-    companies in a wide range of industries. I have worked in product companies and agencies. If I am to go by the
-    feedback I get; I am a trusted leader with strong technical, people and strategic skills.
-  </p>
-  <p>
-    I love learning and improving. I have come to acknowledge this as one of my core qualities. I am
-    able to quickly get up to speed and be productive in a new environment.
+    Both require understanding the complete system, not optimizing parts in isolation.
   </p>
 </div>
+
+<div class="details about-details">
+  <h2>How I work</h2>
+  <p>I believe in incremental progress over grand rewrites, staying close to the actual work rather than managing from a
+    distance, and understanding how all the pieces fit together.</p>
+  <ul>
+    <li>
+      <strong>Compound over rewrite:</strong> I make systems incrementally better rather than starting over. Small
+      improvements in architecture, processes, operations, and teams compound into lasting change.
+    </li>
+
+    <li>
+      <strong>Stay close: </strong> I make systems incrementally better rather than starting over. Small
+      improvements in architecture, processes, operations, and teams compound into lasting change.
+    </li>
+
+    <li>
+      <strong>See the whole:</strong> I care about how vision, strategy, execution, working product, culture, and people
+      connect. Understanding the complete system matters more than optimizing any single part.
+    </li>
+  </ul>
+</div>
+
+<hr />
 
 <div class="details experience-details">
   <h2>Experience, in more detail</h2>
@@ -290,7 +330,11 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Lead technical direction across client projects while establishing Umain's Gothenburg office. Define technical vision and architecture for digital product consultancy work spanning multiple industries. Drive solution design balancing innovation, scalability, security, and sustainability. Act as technical interface with clients, translating business needs into executable strategies. Build and mentor development teams as part of Umain's expansion into new markets. Guide multidisciplinary agile teams through complex delivery challenges.
+        Lead technical direction across client projects while establishing Umain's Gothenburg office. Define technical
+        vision and architecture for digital product consultancy work spanning multiple industries. Drive solution design
+        balancing innovation, scalability, security, and sustainability. Act as technical interface with clients,
+        translating business needs into executable strategies. Build and mentor development teams as part of Umain's
+        expansion into new markets. Guide multidisciplinary agile teams through complex delivery challenges.
       </p>
       <p>
         Tech stack: GCP, Next.js, Golang

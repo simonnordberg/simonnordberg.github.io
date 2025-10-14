@@ -8,7 +8,7 @@ class: resume
   <div class="grid-item">
     <div class="contact">
       <h1>Simon Nordberg</h1>
-      <p>Software, Strategy, and Execution</p>
+      <p>Software, strategy, and execution</p>
       <address>
         <a class="contact email">simon [at] simonnordberg.com</a><br>
         <a class="contact phone">+46706155590</a>
@@ -273,9 +273,6 @@ class: resume
     I love learning and improving. I have come to acknowledge this as one of my core qualities. I am
     able to quickly get up to speed and be productive in a new environment.
   </p>
-  <p>
-    Personally, I am a devoted trail- and ultra runner, downhill skier, mountainbiker, and self-improvement nerd.
-  </p>
 </div>
 
 <div class="details experience-details">
@@ -293,6 +290,10 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
+        Lead technical direction across client projects while establishing Umain's Gothenburg office. Define technical vision and architecture for digital product consultancy work spanning multiple industries. Drive solution design balancing innovation, scalability, security, and sustainability. Act as technical interface with clients, translating business needs into executable strategies. Build and mentor development teams as part of Umain's expansion into new markets. Guide multidisciplinary agile teams through complex delivery challenges.
+      </p>
+      <p>
+        Tech stack: GCP, Next.js, Golang
       </p>
     </div>
   </div>

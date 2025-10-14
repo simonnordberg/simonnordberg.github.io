@@ -262,19 +262,17 @@ class: resume
   </div>
 </div>
 
-<hr />
-
 <div class="details about-details page-break">
-  <h2>What I'm looking for</h2>
-  <p>30-130 person scale-ups post-PMF where what got you here won't get you there. Either:</p>
+  <h2>Companies and roles I'm interested in</h2>
+  <p>I'm particularly interested in 20-150 person scale-ups post-PMF where what got you here won't necessarily get you further. This is my sweet spot, as I love the scaling challenges. While I'm primarily interested in the work and not really in specific titles (and how they mean different things in different places), they are helpful to frame and communicate broad categories of responsibilities and areas of focus. I'm primarily interested in these types of roles.</p>
 
-  <h3>Engineering/Product leadership (CTO, VP/Head of Engineering, CPO)</h3>
-  <p>Leading engineering, possibly product, managing 3-8 teams while staying close to technical and product decisions rather than becoming a distant manager.</p>
+  <h3>Engineering/product leadership roles</h3>
+  <p>Leading engineering or product, managing 3-8 teams while staying close to technical and product decisions rather than becoming a distant manager. E.g. CTO, VP/Head of Engineering, CPO.</p>
 
-  <h3>Senior technical staff (Staff/Principal Engineer, Chief Architect)</h3>
-  <p>High-impact technical work solving the 3-5 critical problems blocking growth. Working in code and architecture, not just whiteboards, with organizational influence.</p>
+  <h3>Senior technical staff roles</h3>
+  <p>High-impact technical work solving the most critical problems blocking growth. Working in code and architecture, not just whiteboards, with organizational influence. E.g. staff/principal engineer, chief architect.</p>
 
-  <p>Both require understanding the complete system, not optimizing parts in isolation.</p>
+  <p>Both categories require understanding and influence of the entire system, including people, product, and technology, rather than the parts in isolation.</p>
 </div>
 
 <div class="details about-details">

@@ -267,10 +267,10 @@ class: resume
   <p>I'm particularly interested in 20-150 person scale-ups that have found product-market fit but are facing the challenges of scaling, where what got you here won't necessarily get you further. This is my sweet spot, as I enjoy tackling the complexities that come with growth.</p>
 
   <h3>Engineering/product leadership roles</h3>
-  <p>Leading engineering or product organizations where I stay close to technical and product decisions rather than managing purely through delegation. I build strategy, make architectural choices, and remove blockers while managing teams. Roles include CTO, VP/Head of Engineering, or CPO.</p>
+  <p>Leading engineering or product organizations where I stay close to technical and product decisions rather than managing purely through delegation. I build strategy, make architectural choices, and remove blockers while managing teams. Roles include CTO, CPO, VP/Head/Director of Engineering or Product.</p>
 
   <h3>Senior technical staff roles</h3>
-  <p>High-impact technical work solving the most critical problems blocking growth. Lead the technical vision and architecture for cross-cutting systems, facilitate architectural decisions, and ensure scalability, reliability, and alignment with business goals. Roles include Staff/Principal Engineer or Chief Architect.</p>
+  <p>High-impact technical work solving the most critical problems blocking growth. Lead the technical vision and architecture for cross-cutting systems, facilitate architectural decisions, and ensure scalability, reliability, and alignment with business goals. Roles include Staff/Principal Engineer, Chief Architect.</p>
 
   <p>Both require understanding and influencing the entire system: people, product, and technology, rather than optimizing parts in isolation.</p>
 </div>

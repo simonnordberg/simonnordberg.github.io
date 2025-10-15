@@ -264,15 +264,15 @@ class: resume
 
 <div class="details about-details page-break">
   <h2>Companies and roles I'm interested in</h2>
-  <p>I'm particularly interested in 20-150 person scale-ups that have found product-market fit but are facing the challenges of scaling, where what got you here won't necessarily get you further. This is my sweet spot, as I enjoy tackling the complexities that come with growth. While I'm more focused on the work than on specific titles (which often mean different things in different companies), they can be useful for framing broad areas of responsibility. These are the kinds of roles I'm most drawn to.</p>
+  <p>I'm particularly interested in 20-150 person scale-ups that have found product-market fit but are facing the challenges of scaling, where what got you here won't necessarily get you further. This is my sweet spot, as I enjoy tackling the complexities that come with growth.</p>
 
   <h3>Engineering/product leadership roles</h3>
-  <p>Leading engineering or product organizations, managing multiple teams while staying close to technical and product decisions, not just operating as a distant people manager. Roles include CTO, VP/Head of Engineering, or CPO.</p>
+  <p>Leading engineering or product organizations where I stay close to technical and product decisions rather than managing purely through delegation. I build strategy, make architectural choices, and remove blockers while managing teams. Roles include CTO, VP/Head of Engineering, or CPO.</p>
 
   <h3>Senior technical staff roles</h3>
   <p>High-impact technical work solving the most critical problems blocking growth. Lead the technical vision and architecture for cross-cutting systems, facilitate architectural decisions, and ensure scalability, reliability, and alignment with business goals. Roles include Staff/Principal Engineer or Chief Architect.</p>
 
-  <p>Both categories require understanding and influence of the entire system, including people, product, and technology, rather than the parts in isolation.</p>
+  <p>Both require understanding and influencing the entire system: people, product, and technology, rather than optimizing parts in isolation.</p>
 </div>
 
 <div class="details about-details">
@@ -306,11 +306,7 @@ class: resume
     </div>
     <div class="grid-item">
       <p>
-        Lead technical direction across client projects while establishing Umain's Gothenburg office. Define technical
-        vision and architecture for digital product consultancy work spanning multiple industries. Drive solution design
-        balancing innovation, scalability, security, and sustainability. Act as technical interface with clients,
-        translating business needs into executable strategies. Build and mentor development teams as part of Umain's
-        expansion into new markets. Guide multidisciplinary agile teams through complex delivery challenges.
+        Establishing Umain's Gothenburg office from scratch. Recruiting and building the engineering team while leading technical direction on client engagements. Provide cloud infrastructure architecture and technical leadership across client projects in manufacturing and digital products. Define solution approaches balancing scalability, security, and delivery speed for companies scaling their engineering capabilities.
       </p>
       <p>
         Tech stack: GCP, Next.js, Golang

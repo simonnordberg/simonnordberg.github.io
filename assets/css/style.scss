@@ -511,6 +511,150 @@ body.resume {
 }
 
 // ============================================================================
+// ARTICLES SECTION (dark theme)
+// ============================================================================
+
+body.articles, body.article {
+  background: rgba(12, 14, 34, 1.0);
+  color: #e5e5e5;
+
+  > header {
+    h1 {
+      color: #e5e5e5;
+    }
+  }
+
+  main {
+    max-width: 44rem;
+  }
+
+  a {
+    color: #ff6b6b;
+
+    &:hover {
+      color: #ff8787;
+    }
+  }
+
+  footer {
+    margin: 3rem 0 2rem;
+
+    a {
+      color: #999;
+      font-size: 0.9rem;
+
+      &:hover {
+        color: #e5e5e5;
+      }
+    }
+  }
+}
+
+// Articles listing page
+body.articles {
+  .articles-list {
+    margin-top: 2rem;
+  }
+
+  .article-item {
+    margin-bottom: 2rem;
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #333;
+
+    &:last-child {
+      border-bottom: none;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: 1.5rem;
+      color: #e5e5e5;
+      transition: color 0.2s ease;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+
+      &:hover h2 {
+        color: #ff6b6b;
+      }
+    }
+  }
+}
+
+// Individual article page
+body.article {
+  article {
+    > header {
+      margin-bottom: 2rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid #333;
+
+      h1 {
+        color: #e5e5e5;
+        margin-bottom: 0.5rem;
+      }
+
+      p {
+        color: #999;
+        font-size: 0.9rem;
+        margin: 0;
+      }
+    }
+  }
+
+  .article-content {
+    h2, h3, h4 {
+      color: #e5e5e5;
+      margin-top: 2rem;
+    }
+
+    p {
+      color: #c9c9c9;
+    }
+
+    strong {
+      color: #e5e5e5;
+    }
+
+    code {
+      background: rgba(0, 0, 0, 0.3);
+      padding: 0.2rem 0.4rem;
+      border-radius: 3px;
+      font-size: 0.9em;
+      color: #ff6b6b;
+    }
+
+    pre {
+      background: rgba(0, 0, 0, 0.3);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      color: #e5e5e5;
+
+      code {
+        background: transparent;
+        padding: 0;
+        color: inherit;
+      }
+    }
+
+    blockquote {
+      border-left-color: #ff6b6b;
+      color: #999;
+    }
+
+    img {
+      border-radius: 4px;
+      margin: 2rem auto;
+    }
+
+    ul, ol {
+      color: #c9c9c9;
+    }
+  }
+}
+
+// ============================================================================
 // PRINT STYLES (for resume PDF generation)
 // ============================================================================
 

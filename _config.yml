@@ -13,8 +13,17 @@ social:
     - https://twitter.com/simonnordberg
 author:
   twitter: simonnordberg
+
+# Permalink structure for blog posts (root-level with title slug)
+permalink: /:title/
+
 defaults:
   - scope:
       path: ""
     values:
       image: /assets/avatar.jpg
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: article

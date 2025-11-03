@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+  <link rel="manifest" href="/assets/favicon/site.webmanifest">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=IBM+Plex+Sans:wght@600;700&display=swap" rel="stylesheet">
+
+  {% seo %}
+  {% include analytics.html %}
+</head>
+<body class="article">
+<header>
+  <a href="{{ '/articles/' | relative_url }}">
+    <img src="/assets/avatar.jpg" alt="{{ site.title }}" width="50" height="50"/>
+    <h1>{{ site.title }}</h1>
+  </a>
+</header>
+
+<main>
+  <article>
+    <header>
+      <h1>{{ page.title }}</h1>
+      <p>{{ page.date | date: "%-d %B %Y" }}</p>
+    </header>
+    <div class="article-content">
+      {{ content }}
+    </div>
+  </article>
+</main>
+
+<footer>
+  <a href="{{ '/articles/' | relative_url }}">← Back to articles</a>
+</footer>
+</body>
+</html>
